@@ -1,9 +1,11 @@
 const config = require("../config");
+const logger = require("../logger");
 
 const validarToken = (req, res, next) => {
     const token = req.header('x-auth-token');
 
     if (!token) {
+        logger.error('TOKEN VACIO');
         return res.status(401).json({
             msg: 'Token invalido'
         });
@@ -15,6 +17,7 @@ const validarToken = (req, res, next) => {
         req.mock = true;
         return next();
     }
+    logger.error('TOKEN INVALIDO');
     return res.status(401).json({
         msg: 'Token invalido'
     });

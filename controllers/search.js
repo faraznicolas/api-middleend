@@ -1,3 +1,5 @@
+const { logResponse } = require('../helpers/log-response');
+const logger = require('../logger');
 const SearchService = require('../services/search');
 
 const getProductos = async (req, res) => {
@@ -11,12 +13,15 @@ const getProductos = async (req, res) => {
     }
     try {
         const searchService = new SearchService(site, query);
-        const resp = await searchService.getResult();
+        const result = await searchService.getResult();
 
-        return res.status(200).json({
-            ...resp
+        res.status(200).json({
+            ...result
         });
+        logResponse(res.getHeaders(),result)
+        return res;
     } catch (error) {
+        logger.error(error);
         return res.status(400).json({
             msg: 'Bad request'
         });
