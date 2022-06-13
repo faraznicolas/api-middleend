@@ -1,0 +1,38 @@
+{
+    "paging": {
+        "total": 2,
+        "offset": 0,
+        "limit": 2
+    },
+    "categories": [
+        "String",
+        "String",
+        "String"
+    ],
+    "items": [
+        {
+            "id": "String1",
+            "title": "String",
+            "price": {
+                "currency": "String",
+                "amount": 0,
+                "decimals": 0
+            },
+            "picture": "String",
+            "condition": "String",
+            "free_shipping": true
+        },
+        {
+            "id": "String2",
+            "title": "String",
+            "price": {
+                "currency": "String",
+                "amount": 0,
+                "decimals": 0
+            },
+            "picture": "String",
+            "condition": "String",
+            "free_shipping": true
+        }
+    ]
+}

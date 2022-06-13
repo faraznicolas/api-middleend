@@ -1,0 +1,177 @@
+---
+openapi: 3.0.0
+
+info: 
+  description: Api Middleend
+  version: 1.0.0
+  title: api-middleend
+paths:
+  /api/search/{site}:
+    get:
+      tags:
+        - Search
+      summary: obtener productos apartir de un query
+      produces:
+        - application/json
+      parameters:
+        - name: x-auth-token
+          in: header
+          description: token 
+          required: true
+          schema:
+            type: string
+        - name: site
+          in: path
+          description: site de busqueda (MLA, MLB, MLM)
+          required: true
+          schema:
+            type: string
+            enum:
+              - MLA
+              - MLB
+              - MLM
+        - name: q
+          in: query
+          description: termino de busqueda
+          required: true
+          schema:
+            type: string
+        - name: limit
+          in: query
+          description: cantidad de registros
+          required: false
+          schema:
+            type: integer
+            minimun: 0
+        - name: offset
+          in: query
+          description: marca el inicio de los resueltados
+          required: false
+          schema:
+            type: integer
+            minimun: 0
+        - name: orderPrice
+          in: query
+          description: ordena por precio los resultados (ASC-DES)
+          required: false
+          schema:
+            type: string
+            enum:
+              - ASC
+              - DESC
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/definitions/Search'
+        '400':
+          description: 'BAD REQUEST'
+        '401':
+          description: 'UNAUTHORIZED'
+  /api/item/{id}:
+    get:
+      tags:
+        - Item
+      summary: obtener item apartir de un id
+      produces:
+        - application/json
+      parameters:
+        - name: x-auth-token
+          in: header
+          description: token 
+          required: true
+          schema:
+            type: string
+        - name: id
+          in: path
+          description: id de busqueda
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/definitions/Item'
+        '400':
+          description: 'BAD REQUEST'
+        '401':
+          description: 'UNAUTHORIZED'
+definitions:
+  Search:
+    type: object
+    properties:
+      paging:
+        type: object
+        properties:
+          total:
+            type: number
+          offset:
+            type: number
+          limit:
+            type: number
+      categories:
+        type: array
+        items:
+          type: string
+      items:
+        type: array
+        items: 
+          type: object
+          properties:
+            id:
+              type: string
+            title:
+              type: string
+            picture:
+              type: string
+            condition:
+              type: string
+            free_shipping:
+              type: boolean
+            price:
+              type: object
+              properties:
+                currency:
+                  type: string
+                amount:
+                  type: number
+                decimals:
+                  type: number
+  Item:
+    type: object
+    properties:
+      author:
+        type: object
+        properties:
+          name:
+            type: string
+          lastname:
+            type: string
+      item: 
+        type: object
+        properties:
+          id:
+            type: string
+          title:
+            type: string
+          picture:
+            type: string
+          condition:
+            type: string
+          free_shipping:
+            type: boolean
+          price:
+            type: object
+            properties:
+              currency:
+                type: string
+              amount:
+                type: number
+              decimals:
+                type: number
+
