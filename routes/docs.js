@@ -2,6 +2,7 @@ const { Router } = require("express");
 
 const swaggerJsDoc = require('swagger-jsdoc');
 const swaggerUI = require('swagger-ui-express');
+const config = require("../config");
 
 const route = Router();
 
@@ -11,7 +12,7 @@ const swaggerOptions = {
             version: "1.0.0",
             title: "API Middleend",
             description: "API para test practico en Mercado Libre",
-            servers: ['http://localhost:8080']
+            servers: [`http://localhost:${config.port}`]
         }
     },
     basePath: "/",
