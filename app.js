@@ -10,8 +10,8 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 
-app.use(logRequest);
 app.use('/api/docs', require('./routes/docs'));
+app.use(logRequest);
 app.use('/api/search', require('./routes/search'));
 app.use('/api/item', require('./routes/item'));
 app.use(handleError);
