@@ -1,0 +1,4642 @@
+{
+    "site_id": "MLA",
+    "country_default_time_zone": "GMT-03:00",
+    "query": "celular",
+    "paging": {
+        "total": 52481,
+        "primary_results": 1000,
+        "offset": 0,
+        "limit": 5
+    },
+    "results": [
+        {
+            "id": "MLA1107107639",
+            "site_id": "MLA",
+            "title": "Alcatel 3h 64 Gb  Elegant Black 3 Gb Ram",
+            "seller": {
+                "id": 109569068,
+                "permalink": "http://perfil.mercadolibre.com.ar/MEGATONE",
+                "registration_date": "2012-04-17T14:27:42.000-04:00",
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": [
+                    "brand",
+                    "large_seller",
+                    "developer",
+                    "messages_as_seller"
+                ],
+                "seller_reputation": {
+                    "power_seller_status": "platinum",
+                    "level_id": "5_green",
+                    "metrics": {
+                        "cancellations": {
+                            "period": "60 days",
+                            "rate": 0.0071,
+                            "value": 35
+                        },
+                        "claims": {
+                            "period": "60 days",
+                            "rate": 0.0143,
+                            "value": 70
+                        },
+                        "delayed_handling_time": {
+                            "period": "60 days",
+                            "rate": 0.0365,
+                            "value": 120
+                        },
+                        "sales": {
+                            "period": "60 days",
+                            "completed": 4576
+                        }
+                    },
+                    "transactions": {
+                        "canceled": 2304,
+                        "period": "historic",
+                        "total": 27911,
+                        "ratings": {
+                            "negative": 0.06,
+                            "neutral": 0.08,
+                            "positive": 0.86
+                        },
+                        "completed": 25607
+                    }
+                }
+            },
+            "price": 27999,
+            "prices": {
+                "id": "MLA1107107639",
+                "prices": [
+                    {
+                        "id": "92",
+                        "type": "standard",
+                        "amount": 32899,
+                        "regular_amount": null,
+                        "currency_id": "ARS",
+                        "last_updated": "2022-06-07T18:33:59Z",
+                        "conditions": {
+                            "context_restrictions": [],
+                            "start_time": null,
+                            "end_time": null,
+                            "eligible": true
+                        },
+                        "exchange_rate_context": "DEFAULT",
+                        "metadata": {}
+                    },
+                    {
+                        "id": "104",
+                        "type": "promotion",
+                        "amount": 27999,
+                        "regular_amount": 32899,
+                        "currency_id": "ARS",
+                        "last_updated": "2022-06-14T03:00:32Z",
+                        "conditions": {
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": "2022-06-14T03:00:00Z",
+                            "end_time": "2022-06-15T02:59:59Z",
+                            "eligible": true
+                        },
+                        "exchange_rate_context": "DEFAULT",
+                        "metadata": {
+                            "campaign_id": "P-MLA6297013",
+                            "promotion_id": "OFFER-MLA1107107639-250222128",
+                            "promotion_type": "deal_of_the_day",
+                            "discount_meli_amount": 1000,
+                            "campaign_discount_percentage": 14.89,
+                            "campaign_end_date": "2022-06-15T02:59:59Z",
+                            "order_item_price": 28999,
+                            "funding_mode": "coupon"
+                        }
+                    },
+                    {
+                        "id": "105",
+                        "type": "promotion",
+                        "amount": 29999,
+                        "regular_amount": 32899,
+                        "currency_id": "ARS",
+                        "last_updated": "2022-06-14T03:00:32Z",
+                        "conditions": {
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": "2022-06-07T03:00:00Z",
+                            "end_time": "2022-06-20T03:00:00Z",
+                            "eligible": true
+                        },
+                        "exchange_rate_context": "DEFAULT",
+                        "metadata": {
+                            "campaign_id": "MLA11433",
+                            "promotion_id": "OFFER-MLA1107107639-249797806",
+                            "promotion_type": "campaign"
+                        }
+                    }
+                ],
+                "presentation": {
+                    "display_currency": "ARS"
+                },
+                "payment_method_prices": [],
+                "reference_prices": [
+                    {
+                        "id": "97",
+                        "type": "min_standard",
+                        "conditions": {
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": null,
+                            "end_time": null,
+                            "eligible": true
+                        },
+                        "amount": 24999,
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "tags": [],
+                        "last_updated": "2022-06-12T04:12:17Z"
+                    },
+                    {
+                        "id": "98",
+                        "type": "was",
+                        "conditions": {
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": "2022-06-12T04:12:17Z",
+                            "end_time": "2022-06-19T04:12:17Z",
+                            "eligible": true
+                        },
+                        "amount": 27999,
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "tags": [],
+                        "last_updated": "2022-06-12T04:12:17Z"
+                    }
+                ],
+                "purchase_discounts": []
+            },
+            "sale_price": null,
+            "currency_id": "ARS",
+            "available_quantity": 791,
+            "sold_quantity": 397,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2041-10-01T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://www.mercadolibre.com.ar/alcatel-3h-64-gb-elegant-black-3-gb-ram/p/MLA18303899",
+            "thumbnail": "http://http2.mlstatic.com/D_705727-MLA47762780436_102021-I.jpg",
+            "thumbnail_id": "705727-MLA47762780436_102021",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 3970.49,
+                "rate": 70.17,
+                "currency_id": "ARS"
+            },
+            "address": {
+                "state_id": "AR-B",
+                "state_name": "Buenos Aires",
+                "city_id": "TUxBQ0NBTTQ1Mjc",
+                "city_name": "Campana"
+            },
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [
+                    "mandatory_free_shipping"
+                ],
+                "logistic_type": "cross_docking",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "AR",
+                    "name": "Argentina"
+                },
+                "state": {
+                    "id": "AR-B",
+                    "name": "Buenos Aires"
+                },
+                "city": {
+                    "id": "TUxBQ0NBTTQ1Mjc",
+                    "name": "Campana"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "id": "BRAND",
+                    "name": "Marca",
+                    "value_id": "30844",
+                    "value_name": "Alcatel",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "30844",
+                            "name": "Alcatel",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "source": 1
+                },
+                {
+                    "id": "GPU_MODEL",
+                    "value_name": "IMG GE8320",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "8852376",
+                            "name": "IMG GE8320",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "name": "Modelo de GPU",
+                    "value_id": "8852376",
+                    "attribute_group_name": "Otros",
+                    "source": 1
+                },
+                {
+                    "source": 1,
+                    "name": "Condición del ítem",
+                    "value_name": "Nuevo",
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "attribute_group_name": "Otros",
+                    "id": "ITEM_CONDITION",
+                    "value_id": "2230284",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS"
+                },
+                {
+                    "id": "MODEL",
+                    "value_id": "3375364",
+                    "attribute_group_name": "Otros",
+                    "values": [
+                        {
+                            "id": "3375364",
+                            "name": "3H",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "source": 1,
+                    "name": "Modelo",
+                    "value_name": "3H",
+                    "value_struct": null
+                },
+                {
+                    "value_id": "10550098",
+                    "value_name": "MediaTek MTK6762D",
+                    "values": [
+                        {
+                            "name": "MediaTek MTK6762D",
+                            "struct": null,
+                            "source": 1,
+                            "id": "10550098"
+                        }
+                    ],
+                    "source": 1,
+                    "id": "PROCESSOR_MODEL",
+                    "name": "Modelo del procesador",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros"
+                },
+                {
+                    "value_name": "180 g",
+                    "source": 1,
+                    "id": "WEIGHT",
+                    "name": "Peso",
+                    "value_id": "1522",
+                    "value_struct": {
+                        "number": 180,
+                        "unit": "g"
+                    },
+                    "values": [
+                        {
+                            "id": "1522",
+                            "name": "180 g",
+                            "struct": {
+                                "number": 180,
+                                "unit": "g"
+                            },
+                            "source": 1
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros"
+                }
+            ],
+            "original_price": 32899,
+            "category_id": "MLA1055",
+            "official_store_id": 82,
+            "domain_id": "MLA-CELLPHONES",
+            "catalog_product_id": "MLA18303899",
+            "tags": [
+                "catalog_boost",
+                "deal_of_the_day",
+                "extended_warranty_eligible",
+                "good_quality_picture",
+                "good_quality_thumbnail",
+                "immediate_payment",
+                "cart_eligible",
+                "meli_choice_candidate"
+            ],
+            "catalog_listing": true,
+            "use_thumbnail_id": true,
+            "offer_score": null,
+            "offer_share": null,
+            "match_score": null,
+            "winner_item_id": null,
+            "melicoin": null,
+            "discounts": null,
+            "order_backend": 1
+        },
+        {
+            "id": "MLA1111890165",
+            "site_id": "MLA",
+            "title": " Moto G60s 128 Gb  Azul 6 Gb Ram",
+            "seller": {
+                "id": 608846165,
+                "permalink": "http://perfil.mercadolibre.com.ar/MERCADOLIBRE+ELECTRONICA_AR",
+                "registration_date": "2020-07-13T13:21:30.000-04:00",
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": [
+                    "brand",
+                    "large_seller",
+                    "credits_profile",
+                    "messages_as_seller"
+                ],
+                "seller_reputation": {
+                    "power_seller_status": "platinum",
+                    "level_id": "5_green",
+                    "metrics": {
+                        "cancellations": {
+                            "period": "60 days",
+                            "rate": 0,
+                            "value": 0
+                        },
+                        "claims": {
+                            "period": "60 days",
+                            "rate": 0.0079,
+                            "value": 1148
+                        },
+                        "delayed_handling_time": {
+                            "period": "60 days",
+                            "rate": 0,
+                            "value": 0
+                        },
+                        "sales": {
+                            "period": "60 days",
+                            "completed": 137286
+                        }
+                    },
+                    "transactions": {
+                        "canceled": 41901,
+                        "period": "historic",
+                        "total": 809255,
+                        "ratings": {
+                            "negative": 0.05,
+                            "neutral": 0.02,
+                            "positive": 0.93
+                        },
+                        "completed": 767354
+                    }
+                }
+            },
+            "price": 54999,
+            "prices": {
+                "id": "MLA1111890165",
+                "prices": [
+                    {
+                        "id": "21",
+                        "type": "standard",
+                        "amount": 54999,
+                        "regular_amount": null,
+                        "currency_id": "ARS",
+                        "last_updated": "2022-06-13T17:55:33Z",
+                        "conditions": {
+                            "context_restrictions": [],
+                            "start_time": null,
+                            "end_time": null,
+                            "eligible": true
+                        },
+                        "exchange_rate_context": "DEFAULT",
+                        "metadata": {}
+                    }
+                ],
+                "presentation": {
+                    "display_currency": "ARS"
+                },
+                "payment_method_prices": [],
+                "reference_prices": [
+                    {
+                        "id": "19",
+                        "type": "min_standard",
+                        "conditions": {
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": null,
+                            "end_time": null,
+                            "eligible": true
+                        },
+                        "amount": 52999,
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "tags": [],
+                        "last_updated": "2022-06-10T04:15:58Z"
+                    },
+                    {
+                        "id": "20",
+                        "type": "was",
+                        "conditions": {
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": "2022-06-10T04:15:58Z",
+                            "end_time": "2022-06-17T04:15:58Z",
+                            "eligible": true
+                        },
+                        "amount": 52999,
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "tags": [],
+                        "last_updated": "2022-06-10T04:15:58Z"
+                    }
+                ],
+                "purchase_discounts": []
+            },
+            "sale_price": null,
+            "currency_id": "ARS",
+            "available_quantity": 1984,
+            "sold_quantity": 4726,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2042-05-24T15:20:04.000Z",
+            "condition": "new",
+            "permalink": "https://www.mercadolibre.com.ar/moto-g60s-128-gb-azul-6-gb-ram/p/MLA18521139",
+            "thumbnail": "http://http2.mlstatic.com/D_788340-MLA48112659213_112021-I.jpg",
+            "thumbnail_id": "788340-MLA48112659213_112021",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 3,
+                "amount": 18333,
+                "rate": 0,
+                "currency_id": "ARS"
+            },
+            "address": {
+                "state_id": "AR-B",
+                "state_name": "Buenos Aires",
+                "city_id": null,
+                "city_name": "Villa Celina"
+            },
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [
+                    "fulfillment",
+                    "mandatory_free_shipping"
+                ],
+                "logistic_type": "fulfillment",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "AR",
+                    "name": "Argentina"
+                },
+                "state": {
+                    "id": "AR-B",
+                    "name": "Buenos Aires"
+                },
+                "city": {
+                    "id": null,
+                    "name": "Villa Celina"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_id": "2503",
+                    "value_name": "Motorola",
+                    "value_struct": null,
+                    "attribute_group_name": "Otros",
+                    "source": 1,
+                    "id": "BRAND",
+                    "name": "Marca",
+                    "values": [
+                        {
+                            "id": "2503",
+                            "name": "Motorola",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS"
+                },
+                {
+                    "id": "DETAILED_MODEL",
+                    "name": "Modelo detallado",
+                    "value_id": "-1",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "value_name": null,
+                    "values": [
+                        {
+                            "struct": null,
+                            "source": 3376461333454861,
+                            "id": "-1",
+                            "name": null
+                        }
+                    ],
+                    "attribute_group_name": "Otros",
+                    "source": 3376461333454861
+                },
+                {
+                    "values": [
+                        {
+                            "id": "7863875",
+                            "name": "Mali-G76 MC4",
+                            "struct": null,
+                            "source": 3376461333454861
+                        }
+                    ],
+                    "id": "GPU_MODEL",
+                    "value_struct": null,
+                    "value_name": "Mali-G76 MC4",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "source": 3376461333454861,
+                    "name": "Modelo de GPU",
+                    "value_id": "7863875"
+                },
+                {
+                    "attribute_group_name": "Otros",
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "value_name": "Nuevo",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "struct": null,
+                            "source": 1,
+                            "id": "2230284",
+                            "name": "Nuevo"
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "value_id": "2230284"
+                },
+                {
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "source": 1,
+                    "value_struct": null,
+                    "name": "Línea",
+                    "value_id": "3073863",
+                    "value_name": "Moto G",
+                    "values": [
+                        {
+                            "id": "3073863",
+                            "name": "Moto G",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "id": "LINE"
+                },
+                {
+                    "attribute_group_name": "Otros",
+                    "source": 1,
+                    "value_id": "11073240",
+                    "value_name": "G60s",
+                    "values": [
+                        {
+                            "id": "11073240",
+                            "name": "G60s",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "id": "MODEL",
+                    "name": "Modelo",
+                    "value_struct": null
+                },
+                {
+                    "name": "Largo del paquete",
+                    "value_id": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "18.4 cm",
+                            "struct": {
+                                "number": 18.4,
+                                "unit": "cm"
+                            },
+                            "source": 1
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "source": 1,
+                    "id": "PACKAGE_LENGTH",
+                    "value_name": "18.4 cm",
+                    "value_struct": {
+                        "number": 18.4,
+                        "unit": "cm"
+                    }
+                },
+                {
+                    "id": "PACKAGE_WEIGHT",
+                    "value_name": "420 g",
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "420 g",
+                            "struct": {
+                                "number": 420,
+                                "unit": "g"
+                            },
+                            "source": 1
+                        }
+                    ],
+                    "source": 1,
+                    "name": "Peso del paquete",
+                    "value_id": null,
+                    "value_struct": {
+                        "number": 420,
+                        "unit": "g"
+                    },
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros"
+                },
+                {
+                    "id": "PROCESSOR_MODEL",
+                    "value_id": "11889204",
+                    "value_struct": null,
+                    "attribute_group_name": "Otros",
+                    "name": "Modelo del procesador",
+                    "value_name": "MediaTek MT6382 Helio G95",
+                    "values": [
+                        {
+                            "id": "11889204",
+                            "name": "MediaTek MT6382 Helio G95",
+                            "struct": null,
+                            "source": 4709228965570453
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "source": 4709228965570453
+                },
+                {
+                    "attribute_group_name": "Otros",
+                    "source": 1,
+                    "name": "Peso",
+                    "value_id": "2146966",
+                    "value_struct": {
+                        "number": 212,
+                        "unit": "g"
+                    },
+                    "values": [
+                        {
+                            "id": "2146966",
+                            "name": "212 g",
+                            "struct": {
+                                "number": 212,
+                                "unit": "g"
+                            },
+                            "source": 1
+                        }
+                    ],
+                    "id": "WEIGHT",
+                    "value_name": "212 g",
+                    "attribute_group_id": "OTHERS"
+                }
+            ],
+            "differential_pricing": {
+                "id": 35713268
+            },
+            "original_price": null,
+            "category_id": "MLA1055",
+            "official_store_id": 1348,
+            "domain_id": "MLA-CELLPHONES",
+            "catalog_product_id": "MLA18521139",
+            "tags": [
+                "3x_campaign",
+                "extended_warranty_eligible",
+                "good_quality_picture",
+                "good_quality_thumbnail",
+                "immediate_payment",
+                "shipping_guaranteed",
+                "meli_choice_candidate"
+            ],
+            "catalog_listing": true,
+            "use_thumbnail_id": true,
+            "offer_score": null,
+            "offer_share": null,
+            "match_score": null,
+            "winner_item_id": null,
+            "melicoin": null,
+            "discounts": null,
+            "order_backend": 2
+        },
+        {
+            "id": "MLA1113718634",
+            "site_id": "MLA",
+            "title": "Motorola Edge 20 Lite 128 Gb  Gris 6 Gb Ram",
+            "seller": {
+                "id": 608846165,
+                "permalink": "http://perfil.mercadolibre.com.ar/MERCADOLIBRE+ELECTRONICA_AR",
+                "registration_date": "2020-07-13T13:21:30.000-04:00",
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": [
+                    "brand",
+                    "large_seller",
+                    "credits_profile",
+                    "messages_as_seller"
+                ],
+                "seller_reputation": {
+                    "power_seller_status": "platinum",
+                    "level_id": "5_green",
+                    "metrics": {
+                        "cancellations": {
+                            "period": "60 days",
+                            "rate": 0,
+                            "value": 0
+                        },
+                        "claims": {
+                            "period": "60 days",
+                            "rate": 0.0079,
+                            "value": 1148
+                        },
+                        "delayed_handling_time": {
+                            "period": "60 days",
+                            "rate": 0,
+                            "value": 0
+                        },
+                        "sales": {
+                            "period": "60 days",
+                            "completed": 137286
+                        }
+                    },
+                    "transactions": {
+                        "canceled": 41901,
+                        "period": "historic",
+                        "total": 809255,
+                        "ratings": {
+                            "negative": 0.05,
+                            "neutral": 0.02,
+                            "positive": 0.93
+                        },
+                        "completed": 767354
+                    }
+                }
+            },
+            "price": 69999,
+            "prices": {
+                "id": "MLA1113718634",
+                "prices": [
+                    {
+                        "id": "11",
+                        "type": "standard",
+                        "amount": 69999,
+                        "regular_amount": null,
+                        "currency_id": "ARS",
+                        "last_updated": "2022-06-14T16:15:41Z",
+                        "conditions": {
+                            "context_restrictions": [],
+                            "start_time": null,
+                            "end_time": null,
+                            "eligible": true
+                        },
+                        "exchange_rate_context": "DEFAULT",
+                        "metadata": {}
+                    }
+                ],
+                "presentation": {
+                    "display_currency": "ARS"
+                },
+                "payment_method_prices": [],
+                "reference_prices": [
+                    {
+                        "id": "9",
+                        "type": "min_standard",
+                        "conditions": {
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": null,
+                            "end_time": null,
+                            "eligible": true
+                        },
+                        "amount": 69999,
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "tags": [],
+                        "last_updated": "2022-06-13T04:13:22Z"
+                    },
+                    {
+                        "id": "10",
+                        "type": "was",
+                        "conditions": {
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": "2022-06-13T04:13:22Z",
+                            "end_time": "2022-06-20T04:13:22Z",
+                            "eligible": true
+                        },
+                        "amount": 69999,
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "tags": [],
+                        "last_updated": "2022-06-13T04:13:22Z"
+                    }
+                ],
+                "purchase_discounts": []
+            },
+            "sale_price": null,
+            "currency_id": "ARS",
+            "available_quantity": 836,
+            "sold_quantity": 4150,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2042-03-04T12:47:56.000Z",
+            "condition": "new",
+            "permalink": "https://www.mercadolibre.com.ar/motorola-edge-20-lite-128-gb-gris-6-gb-ram/p/MLA18495452",
+            "thumbnail": "http://http2.mlstatic.com/D_833619-MLA48233725917_112021-I.jpg",
+            "thumbnail_id": "833619-MLA48233725917_112021",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 3,
+                "amount": 23333,
+                "rate": 0,
+                "currency_id": "ARS"
+            },
+            "address": {
+                "state_id": "AR-B",
+                "state_name": "Buenos Aires",
+                "city_id": null,
+                "city_name": "Villa Celina"
+            },
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [
+                    "fulfillment",
+                    "mandatory_free_shipping"
+                ],
+                "logistic_type": "fulfillment",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "AR",
+                    "name": "Argentina"
+                },
+                "state": {
+                    "id": "AR-B",
+                    "name": "Buenos Aires"
+                },
+                "city": {
+                    "id": null,
+                    "name": "Villa Celina"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "id": "BRAND",
+                    "value_name": "Motorola",
+                    "values": [
+                        {
+                            "struct": null,
+                            "source": 1,
+                            "id": "2503",
+                            "name": "Motorola"
+                        }
+                    ],
+                    "name": "Marca",
+                    "value_id": "2503",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "source": 1
+                },
+                {
+                    "id": "DETAILED_MODEL",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "-1",
+                            "name": null,
+                            "struct": null,
+                            "source": 3376461333454861
+                        }
+                    ],
+                    "source": 3376461333454861,
+                    "name": "Modelo detallado",
+                    "value_id": "-1",
+                    "value_name": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros"
+                },
+                {
+                    "id": "GPU_MODEL",
+                    "value_name": "Mali-G57 MC3",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "source": 3376461333454861,
+                    "name": "Modelo de GPU",
+                    "value_id": "9773722",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "name": "Mali-G57 MC3",
+                            "struct": null,
+                            "source": 3376461333454861,
+                            "id": "9773722"
+                        }
+                    ]
+                },
+                {
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "values": [
+                        {
+                            "struct": null,
+                            "source": 1,
+                            "id": "2230284",
+                            "name": "Nuevo"
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "id": "ITEM_CONDITION",
+                    "value_name": "Nuevo",
+                    "value_struct": null,
+                    "source": 1
+                },
+                {
+                    "id": "LINE",
+                    "name": "Línea",
+                    "value_id": "5639416",
+                    "source": 1,
+                    "value_name": "Edge",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "5639416",
+                            "name": "Edge",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros"
+                },
+                {
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "8150118",
+                            "name": "20 Lite",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "source": 1,
+                    "name": "Modelo",
+                    "value_id": "8150118",
+                    "value_name": "20 Lite",
+                    "id": "MODEL",
+                    "attribute_group_name": "Otros"
+                },
+                {
+                    "value_struct": {
+                        "number": 18,
+                        "unit": "cm"
+                    },
+                    "attribute_group_name": "Otros",
+                    "source": 4333789534002961,
+                    "id": "PACKAGE_LENGTH",
+                    "name": "Largo del paquete",
+                    "value_id": null,
+                    "value_name": "18 cm",
+                    "values": [
+                        {
+                            "name": "18 cm",
+                            "struct": {
+                                "unit": "cm",
+                                "number": 18
+                            },
+                            "source": 4333789534002961,
+                            "id": null
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS"
+                },
+                {
+                    "name": "Peso del paquete",
+                    "value_struct": {
+                        "number": 420,
+                        "unit": "g"
+                    },
+                    "values": [
+                        {
+                            "source": 4333789534002961,
+                            "id": null,
+                            "name": "420 g",
+                            "struct": {
+                                "number": 420,
+                                "unit": "g"
+                            }
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "source": 4333789534002961,
+                    "id": "PACKAGE_WEIGHT",
+                    "value_id": null,
+                    "value_name": "420 g",
+                    "attribute_group_name": "Otros"
+                },
+                {
+                    "name": "Modelo del procesador",
+                    "value_id": "11206381",
+                    "value_name": "MediaTek Dimensity 720",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "struct": null,
+                            "source": 1,
+                            "id": "11206381",
+                            "name": "MediaTek Dimensity 720"
+                        }
+                    ],
+                    "id": "PROCESSOR_MODEL",
+                    "attribute_group_name": "Otros",
+                    "source": 1,
+                    "attribute_group_id": "OTHERS"
+                },
+                {
+                    "attribute_group_name": "Otros",
+                    "id": "WEIGHT",
+                    "value_id": "1151096",
+                    "value_struct": {
+                        "number": 185,
+                        "unit": "g"
+                    },
+                    "values": [
+                        {
+                            "name": "185 g",
+                            "struct": {
+                                "number": 185,
+                                "unit": "g"
+                            },
+                            "source": 1,
+                            "id": "1151096"
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "source": 1,
+                    "name": "Peso",
+                    "value_name": "185 g"
+                }
+            ],
+            "differential_pricing": {
+                "id": 35713268
+            },
+            "original_price": null,
+            "category_id": "MLA1055",
+            "official_store_id": 1348,
+            "domain_id": "MLA-CELLPHONES",
+            "catalog_product_id": "MLA18495452",
+            "tags": [
+                "3x_campaign",
+                "extended_warranty_eligible",
+                "good_quality_picture",
+                "good_quality_thumbnail",
+                "immediate_payment",
+                "shipping_guaranteed",
+                "meli_choice_candidate"
+            ],
+            "catalog_listing": true,
+            "use_thumbnail_id": true,
+            "offer_score": null,
+            "offer_share": null,
+            "match_score": null,
+            "winner_item_id": null,
+            "melicoin": null,
+            "discounts": null,
+            "order_backend": 3
+        },
+        {
+            "id": "MLA1134312697",
+            "site_id": "MLA",
+            "title": "Samsung Galaxy A03 64 Gb  Azul 4 Gb Ram",
+            "seller": {
+                "id": 608846165,
+                "permalink": "http://perfil.mercadolibre.com.ar/MERCADOLIBRE+ELECTRONICA_AR",
+                "registration_date": "2020-07-13T13:21:30.000-04:00",
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": [
+                    "brand",
+                    "large_seller",
+                    "credits_profile",
+                    "messages_as_seller"
+                ],
+                "seller_reputation": {
+                    "power_seller_status": "platinum",
+                    "level_id": "5_green",
+                    "metrics": {
+                        "cancellations": {
+                            "period": "60 days",
+                            "rate": 0,
+                            "value": 0
+                        },
+                        "claims": {
+                            "period": "60 days",
+                            "rate": 0.0079,
+                            "value": 1148
+                        },
+                        "delayed_handling_time": {
+                            "period": "60 days",
+                            "rate": 0,
+                            "value": 0
+                        },
+                        "sales": {
+                            "period": "60 days",
+                            "completed": 137286
+                        }
+                    },
+                    "transactions": {
+                        "canceled": 41901,
+                        "period": "historic",
+                        "total": 809255,
+                        "ratings": {
+                            "negative": 0.05,
+                            "neutral": 0.02,
+                            "positive": 0.93
+                        },
+                        "completed": 767354
+                    }
+                }
+            },
+            "price": 32999,
+            "prices": {
+                "id": "MLA1134312697",
+                "prices": [
+                    {
+                        "id": "2",
+                        "type": "standard",
+                        "amount": 32999,
+                        "regular_amount": null,
+                        "currency_id": "ARS",
+                        "last_updated": "2022-06-07T18:37:35Z",
+                        "conditions": {
+                            "context_restrictions": [],
+                            "start_time": null,
+                            "end_time": null,
+                            "eligible": true
+                        },
+                        "exchange_rate_context": "DEFAULT",
+                        "metadata": {}
+                    }
+                ],
+                "presentation": {
+                    "display_currency": "ARS"
+                },
+                "payment_method_prices": [],
+                "reference_prices": [
+                    {
+                        "id": "4",
+                        "type": "min_standard",
+                        "conditions": {
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": null,
+                            "end_time": null,
+                            "eligible": true
+                        },
+                        "amount": 30999,
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "tags": [],
+                        "last_updated": "2022-06-11T04:47:51Z"
+                    },
+                    {
+                        "id": "5",
+                        "type": "was",
+                        "conditions": {
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": "2022-06-11T04:47:51Z",
+                            "end_time": "2022-06-18T04:47:51Z",
+                            "eligible": true
+                        },
+                        "amount": 30999,
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "tags": [],
+                        "last_updated": "2022-06-11T04:47:51Z"
+                    }
+                ],
+                "purchase_discounts": []
+            },
+            "sale_price": null,
+            "currency_id": "ARS",
+            "available_quantity": 94,
+            "sold_quantity": 830,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2042-05-25T04:11:09.000Z",
+            "condition": "new",
+            "permalink": "https://www.mercadolibre.com.ar/samsung-galaxy-a03-64-gb-azul-4-gb-ram/p/MLA18955018",
+            "thumbnail": "http://http2.mlstatic.com/D_863374-MLA49433328175_032022-I.jpg",
+            "thumbnail_id": "863374-MLA49433328175_032022",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 4679.53,
+                "rate": 70.17,
+                "currency_id": "ARS"
+            },
+            "address": {
+                "state_id": "AR-B",
+                "state_name": "Buenos Aires",
+                "city_id": null,
+                "city_name": "Villa Celina"
+            },
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [
+                    "fulfillment",
+                    "mandatory_free_shipping"
+                ],
+                "logistic_type": "fulfillment",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "AR",
+                    "name": "Argentina"
+                },
+                "state": {
+                    "id": "AR-B",
+                    "name": "Buenos Aires"
+                },
+                "city": {
+                    "id": null,
+                    "name": "Villa Celina"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "values": [
+                        {
+                            "struct": null,
+                            "source": 1,
+                            "id": "206",
+                            "name": "Samsung"
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "source": 1,
+                    "name": "Marca",
+                    "value_name": "Samsung",
+                    "value_struct": null,
+                    "attribute_group_name": "Otros",
+                    "id": "BRAND",
+                    "value_id": "206"
+                },
+                {
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "value_name": "Nuevo",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros"
+                },
+                {
+                    "source": 1,
+                    "id": "LINE",
+                    "name": "Línea",
+                    "value_id": "322977",
+                    "value_name": "Galaxy A",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "struct": null,
+                            "source": 1,
+                            "id": "322977",
+                            "name": "Galaxy A"
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros"
+                },
+                {
+                    "id": "MODEL",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "struct": null,
+                            "source": 1,
+                            "id": "231612",
+                            "name": "A03"
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "source": 1,
+                    "name": "Modelo",
+                    "value_id": "231612",
+                    "value_name": "A03",
+                    "attribute_group_name": "Otros"
+                },
+                {
+                    "name": "Largo del paquete",
+                    "value_id": null,
+                    "value_struct": {
+                        "number": 17.4,
+                        "unit": "cm"
+                    },
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "source": 4333789534002961,
+                    "id": "PACKAGE_LENGTH",
+                    "values": [
+                        {
+                            "source": 4333789534002961,
+                            "id": null,
+                            "name": "17.4 cm",
+                            "struct": {
+                                "number": 17.4,
+                                "unit": "cm"
+                            }
+                        }
+                    ],
+                    "value_name": "17.4 cm"
+                },
+                {
+                    "id": "PACKAGE_WEIGHT",
+                    "value_id": null,
+                    "value_name": "320 g",
+                    "values": [
+                        {
+                            "struct": {
+                                "number": 320,
+                                "unit": "g"
+                            },
+                            "source": 4333789534002961,
+                            "id": null,
+                            "name": "320 g"
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "name": "Peso del paquete",
+                    "value_struct": {
+                        "number": 320,
+                        "unit": "g"
+                    },
+                    "attribute_group_name": "Otros",
+                    "source": 4333789534002961
+                },
+                {
+                    "attribute_group_name": "Otros",
+                    "id": "WEIGHT",
+                    "value_id": "3044472",
+                    "values": [
+                        {
+                            "source": 1,
+                            "id": "3044472",
+                            "name": "196 g",
+                            "struct": {
+                                "number": 196,
+                                "unit": "g"
+                            }
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "source": 1,
+                    "name": "Peso",
+                    "value_name": "196 g",
+                    "value_struct": {
+                        "number": 196,
+                        "unit": "g"
+                    }
+                }
+            ],
+            "original_price": null,
+            "category_id": "MLA1055",
+            "official_store_id": 1550,
+            "domain_id": "MLA-CELLPHONES",
+            "catalog_product_id": "MLA18955018",
+            "tags": [
+                "extended_warranty_eligible",
+                "good_quality_picture",
+                "good_quality_thumbnail",
+                "immediate_payment",
+                "cart_eligible",
+                "shipping_guaranteed",
+                "meli_choice_candidate"
+            ],
+            "catalog_listing": true,
+            "use_thumbnail_id": true,
+            "offer_score": null,
+            "offer_share": null,
+            "match_score": null,
+            "winner_item_id": null,
+            "melicoin": null,
+            "discounts": null,
+            "order_backend": 4
+        },
+        {
+            "id": "MLA1122988720",
+            "site_id": "MLA",
+            "title": "Xiaomi Redmi 9a Dual Sim 32 Gb  Gris Granito 2 Gb Ram",
+            "seller": {
+                "id": 318494504,
+                "permalink": "http://perfil.mercadolibre.com.ar/ELECTRO-WORLD+GROUP",
+                "registration_date": "2018-05-02T09:44:26.000-04:00",
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": [
+                    "normal",
+                    "eshop",
+                    "mshops",
+                    "credits_profile",
+                    "messages_as_seller"
+                ],
+                "eshop": {
+                    "seller": 318494504,
+                    "eshop_rubro": null,
+                    "eshop_id": 336276,
+                    "nick_name": "ELECTROWORLDGROUPARGENTINA",
+                    "site_id": "MLA",
+                    "eshop_logo_url": "http://resources.mlstatic.com/eshops/318494504v8cf607.png",
+                    "eshop_status_id": 1,
+                    "eshop_experience": 0,
+                    "eshop_locations": []
+                },
+                "seller_reputation": {
+                    "power_seller_status": "platinum",
+                    "level_id": "5_green",
+                    "metrics": {
+                        "cancellations": {
+                            "period": "60 days",
+                            "rate": 0.0028,
+                            "value": 168
+                        },
+                        "claims": {
+                            "period": "60 days",
+                            "rate": 0.0122,
+                            "value": 719
+                        },
+                        "delayed_handling_time": {
+                            "period": "60 days",
+                            "rate": 0.0071,
+                            "value": 403
+                        },
+                        "sales": {
+                            "period": "60 days",
+                            "completed": 55835
+                        }
+                    },
+                    "transactions": {
+                        "canceled": 12326,
+                        "period": "historic",
+                        "total": 253559,
+                        "ratings": {
+                            "negative": 0.03,
+                            "neutral": 0.02,
+                            "positive": 0.95
+                        },
+                        "completed": 241233
+                    }
+                }
+            },
+            "price": 28226,
+            "prices": {
+                "id": "MLA1122988720",
+                "prices": [
+                    {
+                        "id": "47",
+                        "type": "standard",
+                        "amount": 34999,
+                        "regular_amount": null,
+                        "currency_id": "ARS",
+                        "last_updated": "2022-05-19T19:53:34Z",
+                        "conditions": {
+                            "context_restrictions": [],
+                            "start_time": null,
+                            "end_time": null,
+                            "eligible": true
+                        },
+                        "exchange_rate_context": "DEFAULT",
+                        "metadata": {}
+                    },
+                    {
+                        "id": "421",
+                        "type": "promotion",
+                        "amount": 28226,
+                        "regular_amount": 34999,
+                        "currency_id": "ARS",
+                        "last_updated": "2022-06-10T18:00:00Z",
+                        "conditions": {
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": "2022-06-07T02:30:00Z",
+                            "end_time": "2022-06-20T03:00:00Z",
+                            "eligible": true
+                        },
+                        "exchange_rate_context": "DEFAULT",
+                        "metadata": {
+                            "campaign_id": "MLA11433",
+                            "promotion_id": "MLA11433",
+                            "promotion_type": "campaign"
+                        }
+                    },
+                    {
+                        "id": "422",
+                        "type": "promotion",
+                        "amount": 27999,
+                        "regular_amount": 34999,
+                        "currency_id": "ARS",
+                        "last_updated": "2022-06-10T18:00:00Z",
+                        "conditions": {
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": "2022-06-10T18:00:00Z",
+                            "end_time": "2022-06-11T02:00:00Z",
+                            "eligible": true
+                        },
+                        "exchange_rate_context": "DEFAULT",
+                        "metadata": {
+                            "promotion_id": "9687086-MLA1122988720",
+                            "promotion_type": "lightning"
+                        }
+                    }
+                ],
+                "presentation": {
+                    "display_currency": "ARS"
+                },
+                "payment_method_prices": [],
+                "reference_prices": [
+                    {
+                        "id": "417",
+                        "type": "min_standard",
+                        "conditions": {
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": null,
+                            "end_time": null,
+                            "eligible": true
+                        },
+                        "amount": 34999,
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "tags": [],
+                        "last_updated": "2022-06-10T04:15:58Z"
+                    },
+                    {
+                        "id": "418",
+                        "type": "was",
+                        "conditions": {
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": "2022-06-10T04:15:58Z",
+                            "end_time": "2022-06-17T04:15:58Z",
+                            "eligible": true
+                        },
+                        "amount": 27999,
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "tags": [],
+                        "last_updated": "2022-06-10T04:15:58Z"
+                    }
+                ],
+                "purchase_discounts": []
+            },
+            "sale_price": null,
+            "currency_id": "ARS",
+            "available_quantity": 191,
+            "sold_quantity": 1608,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2042-02-05T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://www.mercadolibre.com.ar/xiaomi-redmi-9a-dual-sim-32-gb-gris-granito-2-gb-ram/p/MLA15927746",
+            "thumbnail": "http://http2.mlstatic.com/D_981867-MLA48770610134_012022-I.jpg",
+            "thumbnail_id": "981867-MLA48770610134_012022",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 4002.68,
+                "rate": 70.17,
+                "currency_id": "ARS"
+            },
+            "address": {
+                "state_id": "AR-C",
+                "state_name": "Capital Federal",
+                "city_id": "QVItQ1BhcnF1ZSBDaGFz",
+                "city_name": "Parque Chas"
+            },
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [
+                    "fulfillment",
+                    "self_service_in",
+                    "mandatory_free_shipping"
+                ],
+                "logistic_type": "fulfillment",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "AR",
+                    "name": "Argentina"
+                },
+                "state": {
+                    "id": "AR-C",
+                    "name": "Capital Federal"
+                },
+                "city": {
+                    "id": "QVItQ1BhcnF1ZSBDaGFz",
+                    "name": "Parque Chas"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "attribute_group_name": "Otros",
+                    "id": "BRAND",
+                    "value_id": "59387",
+                    "value_name": "Xiaomi",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "name": "Marca",
+                    "values": [
+                        {
+                            "id": "59387",
+                            "name": "Xiaomi",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "source": 1
+                },
+                {
+                    "name": "Modelo de GPU",
+                    "value_id": "7498817",
+                    "attribute_group_name": "Otros",
+                    "attribute_group_id": "OTHERS",
+                    "source": 1,
+                    "id": "GPU_MODEL",
+                    "value_name": "PowerVR GE8320",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "struct": null,
+                            "source": 1,
+                            "id": "7498817",
+                            "name": "PowerVR GE8320"
+                        }
+                    ]
+                },
+                {
+                    "value_id": "2230284",
+                    "value_name": "Nuevo",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 6808261514773724
+                        }
+                    ],
+                    "attribute_group_name": "Otros",
+                    "source": 6808261514773724
+                },
+                {
+                    "name": "Línea",
+                    "value_id": "199791",
+                    "value_name": "Redmi",
+                    "source": 1,
+                    "id": "LINE",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "199791",
+                            "name": "Redmi",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros"
+                },
+                {
+                    "id": "MODEL",
+                    "value_name": "9A",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "8786479",
+                            "name": "9A",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "source": 1,
+                    "name": "Modelo",
+                    "value_id": "8786479"
+                },
+                {
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "22 cm",
+                            "struct": {
+                                "number": 22,
+                                "unit": "cm"
+                            },
+                            "source": 4333789534002961
+                        }
+                    ],
+                    "id": "PACKAGE_LENGTH",
+                    "name": "Largo del paquete",
+                    "value_id": null,
+                    "value_name": "22 cm",
+                    "value_struct": {
+                        "unit": "cm",
+                        "number": 22
+                    },
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "source": 4333789534002961
+                },
+                {
+                    "value_id": null,
+                    "value_struct": {
+                        "number": 800,
+                        "unit": "g"
+                    },
+                    "values": [
+                        {
+                            "source": 4333789534002961,
+                            "id": null,
+                            "name": "800 g",
+                            "struct": {
+                                "number": 800,
+                                "unit": "g"
+                            }
+                        }
+                    ],
+                    "attribute_group_name": "Otros",
+                    "source": 4333789534002961,
+                    "name": "Peso del paquete",
+                    "value_name": "800 g",
+                    "attribute_group_id": "OTHERS",
+                    "id": "PACKAGE_WEIGHT"
+                },
+                {
+                    "values": [
+                        {
+                            "id": "11366988",
+                            "name": "MediaTek MT6762G Helio G25",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "attribute_group_name": "Otros",
+                    "value_id": "11366988",
+                    "value_name": "MediaTek MT6762G Helio G25",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "source": 1,
+                    "id": "PROCESSOR_MODEL",
+                    "name": "Modelo del procesador"
+                },
+                {
+                    "name": "Peso",
+                    "value_id": "2583040",
+                    "value_name": "194 g",
+                    "values": [
+                        {
+                            "id": "2583040",
+                            "name": "194 g",
+                            "struct": {
+                                "unit": "g",
+                                "number": 194
+                            },
+                            "source": 1
+                        }
+                    ],
+                    "attribute_group_name": "Otros",
+                    "id": "WEIGHT",
+                    "value_struct": {
+                        "number": 194,
+                        "unit": "g"
+                    },
+                    "attribute_group_id": "OTHERS",
+                    "source": 1
+                }
+            ],
+            "original_price": 34999,
+            "category_id": "MLA1055",
+            "official_store_id": null,
+            "domain_id": "MLA-CELLPHONES",
+            "catalog_product_id": "MLA15927746",
+            "tags": [
+                "good_quality_thumbnail",
+                "loyalty_discount_eligible",
+                "extended_warranty_eligible",
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible",
+                "shipping_guaranteed"
+            ],
+            "catalog_listing": true,
+            "use_thumbnail_id": true,
+            "offer_score": null,
+            "offer_share": null,
+            "match_score": null,
+            "winner_item_id": null,
+            "melicoin": null,
+            "discounts": null,
+            "order_backend": 5
+        }
+    ],
+    "sort": {
+        "id": "relevance",
+        "name": "Más relevantes"
+    },
+    "available_sorts": [
+        {
+            "id": "price_asc",
+            "name": "Menor precio"
+        },
+        {
+            "id": "price_desc",
+            "name": "Mayor precio"
+        }
+    ],
+    "filters": [
+        {
+            "id": "category",
+            "name": "Categorías",
+            "type": "text",
+            "values": [
+                {
+                    "id": "MLA1055",
+                    "name": "Celulares y Smartphones",
+                    "path_from_root": [
+                        {
+                            "id": "MLA1051",
+                            "name": "Celulares y Teléfonos"
+                        },
+                        {
+                            "id": "MLA1055",
+                            "name": "Celulares y Smartphones"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "available_filters": [
+        {
+            "id": "official_store",
+            "name": "Tiendas oficiales",
+            "type": "text",
+            "values": [
+                {
+                    "id": "all",
+                    "name": "Todas las tiendas oficiales",
+                    "results": 367
+                },
+                {
+                    "id": "1550",
+                    "name": "Samsung",
+                    "results": 34
+                },
+                {
+                    "id": "1348",
+                    "name": "Motorola",
+                    "results": 20
+                },
+                {
+                    "id": "1425",
+                    "name": "Diggit",
+                    "results": 15
+                },
+                {
+                    "id": "82",
+                    "name": "Megatone",
+                    "results": 15
+                },
+                {
+                    "id": "2549",
+                    "name": "Apple",
+                    "results": 57
+                },
+                {
+                    "id": "1938",
+                    "name": "Mercado Libre Electronica",
+                    "results": 13
+                },
+                {
+                    "id": "1372",
+                    "name": "Mall 360",
+                    "results": 2
+                },
+                {
+                    "id": "229",
+                    "name": "Fravega",
+                    "results": 89
+                },
+                {
+                    "id": "1213",
+                    "name": "Hendel Hogar",
+                    "results": 1
+                }
+            ]
+        },
+        {
+            "id": "discount",
+            "name": "Descuentos",
+            "type": "number",
+            "values": [
+                {
+                    "id": "5-100",
+                    "name": "Desde 5% OFF",
+                    "results": 569
+                },
+                {
+                    "id": "10-100",
+                    "name": "Desde 10% OFF",
+                    "results": 416
+                },
+                {
+                    "id": "15-100",
+                    "name": "Desde 15% OFF",
+                    "results": 112
+                },
+                {
+                    "id": "20-100",
+                    "name": "Desde 20% OFF",
+                    "results": 65
+                },
+                {
+                    "id": "25-100",
+                    "name": "Desde 25% OFF",
+                    "results": 5
+                },
+                {
+                    "id": "30-100",
+                    "name": "Desde 30% OFF",
+                    "results": 2
+                }
+            ]
+        },
+        {
+            "id": "state",
+            "name": "Ubicación",
+            "type": "text",
+            "values": [
+                {
+                    "id": "TUxBUENBUGw3M2E1",
+                    "name": "Capital Federal",
+                    "results": 18016
+                },
+                {
+                    "id": "TUxBUEdSQXJlMDNm",
+                    "name": "Bs.As. G.B.A. Sur",
+                    "results": 6365
+                },
+                {
+                    "id": "TUxBUEdSQWU4ZDkz",
+                    "name": "Bs.As. G.B.A. Norte",
+                    "results": 6002
+                },
+                {
+                    "id": "TUxBUEdSQWVmNTVm",
+                    "name": "Bs.As. G.B.A. Oeste",
+                    "results": 5331
+                },
+                {
+                    "id": "TUxBUENPUmFkZGIw",
+                    "name": "Córdoba",
+                    "results": 2764
+                },
+                {
+                    "id": "TUxBUFNBTmU5Nzk2",
+                    "name": "Santa Fe",
+                    "results": 2338
+                },
+                {
+                    "id": "TUxBUFpPTmFpbnRl",
+                    "name": "Buenos Aires Interior",
+                    "results": 2327
+                },
+                {
+                    "id": "TUxBUE1FTmE5OWQ4",
+                    "name": "Mendoza",
+                    "results": 1123
+                },
+                {
+                    "id": "TUxBUE1JU3MzNjIx",
+                    "name": "Misiones",
+                    "results": 977
+                },
+                {
+                    "id": "TUxBUEVOVHMzNTdm",
+                    "name": "Entre Ríos",
+                    "results": 848
+                },
+                {
+                    "id": "TUxBUENPU2ExMmFkMw",
+                    "name": "Bs.As. Costa Atlántica",
+                    "results": 726
+                },
+                {
+                    "id": "TUxBUFRVQ244NmM3",
+                    "name": "Tucumán",
+                    "results": 661
+                },
+                {
+                    "id": "TUxBUENIQW8xMTNhOA",
+                    "name": "Chaco",
+                    "results": 474
+                },
+                {
+                    "id": "TUxBUENPUnM5MjI0",
+                    "name": "Corrientes",
+                    "results": 474
+                },
+                {
+                    "id": "TUxBUE5FVW4xMzMzNQ",
+                    "name": "Neuquén",
+                    "results": 430
+                },
+                {
+                    "id": "TUxBUFNBTGFjMTJi",
+                    "name": "Salta",
+                    "results": 385
+                },
+                {
+                    "id": "TUxBUFNBTm9lOTlk",
+                    "name": "Santiago del Estero",
+                    "results": 353
+                },
+                {
+                    "id": "TUxBUENIVXQxNDM1MQ",
+                    "name": "Chubut",
+                    "results": 309
+                },
+                {
+                    "id": "TUxBUFLNT29iZmZm",
+                    "name": "Río Negro",
+                    "results": 276
+                },
+                {
+                    "id": "TUxBUFNBTnM0ZTcz",
+                    "name": "San Luis",
+                    "results": 275
+                },
+                {
+                    "id": "TUxBUFNBTm5lYjU4",
+                    "name": "San Juan",
+                    "results": 265
+                },
+                {
+                    "id": "TUxBUEZPUmE1OTk5",
+                    "name": "Formosa",
+                    "results": 254
+                },
+                {
+                    "id": "TUxBUExBWmEyNzY0",
+                    "name": "La Rioja",
+                    "results": 254
+                },
+                {
+                    "id": "TUxBUENBVGFiY2Fm",
+                    "name": "Catamarca",
+                    "results": 177
+                },
+                {
+                    "id": "TUxBUEpVSnk3YmUz",
+                    "name": "Jujuy",
+                    "results": 154
+                },
+                {
+                    "id": "TUxBUFNBTno3ZmY5",
+                    "name": "Santa Cruz",
+                    "results": 143
+                },
+                {
+                    "id": "TUxBUExBWmE1OWMy",
+                    "name": "La Pampa",
+                    "results": 110
+                },
+                {
+                    "id": "TUxBUFRJRVoxM2M5YQ",
+                    "name": "Tierra del Fuego",
+                    "results": 11
+                }
+            ]
+        },
+        {
+            "id": "price",
+            "name": "Precio",
+            "type": "range",
+            "values": [
+                {
+                    "id": "*-30000.0",
+                    "name": "Hasta $ 30.000",
+                    "results": 16483
+                },
+                {
+                    "id": "30000.0-75000.0",
+                    "name": "$30.000 a $75.000",
+                    "results": 18395
+                },
+                {
+                    "id": "75000.0-*",
+                    "name": "Más de $75.000",
+                    "results": 17593
+                }
+            ]
+        },
+        {
+            "id": "accepts_mercadopago",
+            "name": "Filtro por MercadoPago",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "Con MercadoPago",
+                    "results": 52471
+                }
+            ]
+        },
+        {
+            "id": "installments",
+            "name": "Pago",
+            "type": "text",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "En cuotas",
+                    "results": 51050
+                },
+                {
+                    "id": "no_interest",
+                    "name": "Sin interés",
+                    "results": 6835
+                }
+            ]
+        },
+        {
+            "id": "shipping",
+            "name": "Tipo de entrega",
+            "type": "text",
+            "values": [
+                {
+                    "id": "mercadoenvios",
+                    "name": "Con envío",
+                    "results": 52272
+                },
+                {
+                    "id": "fulfillment",
+                    "name": "Full",
+                    "results": 147
+                }
+            ]
+        },
+        {
+            "id": "power_seller",
+            "name": "Filtro por calidad de vendedores",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "Mejores vendedores",
+                    "results": 4343
+                }
+            ]
+        },
+        {
+            "id": "since",
+            "name": "Filtro por fecha de comienzo",
+            "type": "text",
+            "values": [
+                {
+                    "id": "today",
+                    "name": "Publicados hoy",
+                    "results": 848
+                }
+            ]
+        },
+        {
+            "id": "until",
+            "name": "Filtro por fecha de finalización",
+            "type": "text",
+            "values": [
+                {
+                    "id": "today",
+                    "name": "Finalizan hoy",
+                    "results": 242
+                }
+            ]
+        },
+        {
+            "id": "has_video",
+            "name": "Filtro por publicaciones con video",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "Publicaciones con video",
+                    "results": 902
+                }
+            ]
+        },
+        {
+            "id": "has_pictures",
+            "name": "Filtro por publicaciones con imágenes",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "Con fotos",
+                    "results": 52383
+                }
+            ]
+        },
+        {
+            "id": "all_payment_methods_discount",
+            "name": "Descuentos para todos los medios de pago",
+            "type": "number",
+            "values": [
+                {
+                    "id": "5-100",
+                    "name": "Desde 5% OFF",
+                    "results": 14
+                },
+                {
+                    "id": "20-100",
+                    "name": "Desde 20% OFF",
+                    "results": 2
+                },
+                {
+                    "id": "25-100",
+                    "name": "Desde 25% OFF",
+                    "results": 1
+                }
+            ]
+        },
+        {
+            "id": "price_campaign_id",
+            "name": "Campaña",
+            "type": "number",
+            "values": [
+                {
+                    "id": "MLA11433",
+                    "name": "MLA11433",
+                    "results": 24
+                },
+                {
+                    "id": "P-MLA6297013",
+                    "name": "P-MLA6297013",
+                    "results": 3
+                },
+                {
+                    "id": "MLA8258",
+                    "name": "MLA8258",
+                    "results": 2
+                },
+                {
+                    "id": "P-MLA945002",
+                    "name": "P-MLA945002",
+                    "results": 1
+                }
+            ]
+        },
+        {
+            "id": "promotion_type",
+            "name": "Tipo de promoción",
+            "type": "text",
+            "values": [
+                {
+                    "id": "deal_of_the_day",
+                    "name": "Oferta del día",
+                    "results": 1
+                }
+            ]
+        },
+        {
+            "id": "shipping_cost",
+            "name": "Costo de envío",
+            "type": "text",
+            "values": [
+                {
+                    "id": "free",
+                    "name": "Gratis",
+                    "results": 25751
+                }
+            ]
+        },
+        {
+            "id": "BRAND",
+            "name": "Marca",
+            "type": "STRING",
+            "values": [
+                {
+                    "id": "9344",
+                    "name": "Apple",
+                    "results": 22000
+                },
+                {
+                    "id": "206",
+                    "name": "Samsung",
+                    "results": 12140
+                },
+                {
+                    "id": "2503",
+                    "name": "Motorola",
+                    "results": 6480
+                },
+                {
+                    "id": "59387",
+                    "name": "Xiaomi",
+                    "results": 2740
+                },
+                {
+                    "id": "8784",
+                    "name": "Huawei",
+                    "results": 700
+                },
+                {
+                    "id": "215",
+                    "name": "LG",
+                    "results": 650
+                },
+                {
+                    "id": "2879",
+                    "name": "Nokia",
+                    "results": 640
+                },
+                {
+                    "id": "30844",
+                    "name": "Alcatel",
+                    "results": 370
+                },
+                {
+                    "id": "995",
+                    "name": "Sony",
+                    "results": 210
+                },
+                {
+                    "id": "6176",
+                    "name": "BlackBerry",
+                    "results": 200
+                },
+                {
+                    "id": "8908",
+                    "name": "BLU",
+                    "results": 190
+                },
+                {
+                    "id": "59761",
+                    "name": "OnePlus",
+                    "results": 180
+                },
+                {
+                    "id": "51559",
+                    "name": "iPro",
+                    "results": 160
+                },
+                {
+                    "id": "16457",
+                    "name": "TCL",
+                    "results": 150
+                },
+                {
+                    "id": "52701",
+                    "name": "Google",
+                    "results": 120
+                },
+                {
+                    "id": "2178508",
+                    "name": "CAT",
+                    "results": 90
+                },
+                {
+                    "id": "8112646",
+                    "name": "Realme",
+                    "results": 70
+                },
+                {
+                    "id": "7294334",
+                    "name": "Asus",
+                    "results": 70
+                },
+                {
+                    "id": "7561",
+                    "name": "ZTE",
+                    "results": 60
+                },
+                {
+                    "id": "1374",
+                    "name": "Sony Ericsson",
+                    "results": 60
+                },
+                {
+                    "id": "9807",
+                    "name": "Noblex",
+                    "results": 50
+                },
+                {
+                    "id": "3030555",
+                    "name": "Konka",
+                    "results": 50
+                },
+                {
+                    "id": "501884",
+                    "name": "Ulefone",
+                    "results": 40
+                },
+                {
+                    "id": "48598",
+                    "name": "Quantum",
+                    "results": 40
+                },
+                {
+                    "id": "479",
+                    "name": "Philco",
+                    "results": 40
+                },
+                {
+                    "id": "15770",
+                    "name": "Microsoft",
+                    "results": 40
+                },
+                {
+                    "id": "3",
+                    "name": "Philips",
+                    "results": 30
+                }
+            ]
+        },
+        {
+            "id": "CARRIER",
+            "name": "Compañía telefónica",
+            "type": "STRING",
+            "values": [
+                {
+                    "id": "298335",
+                    "name": "Liberado",
+                    "results": 44820
+                },
+                {
+                    "id": "298333",
+                    "name": "Claro",
+                    "results": 1110
+                },
+                {
+                    "id": "303170",
+                    "name": "Movistar",
+                    "results": 1040
+                },
+                {
+                    "id": "303171",
+                    "name": "Personal",
+                    "results": 1030
+                },
+                {
+                    "id": "303172",
+                    "name": "Nextel",
+                    "results": 290
+                }
+            ]
+        },
+        {
+            "id": "DISPLAY_SIZE",
+            "name": "Tamaño de la pantalla",
+            "type": "range",
+            "values": [
+                {
+                    "id": "(*-5\")",
+                    "name": "Menos de 5 \"",
+                    "results": 10480
+                },
+                {
+                    "id": "[5\"-5.8\")",
+                    "name": "5 a 5,7 \"",
+                    "results": 10720
+                },
+                {
+                    "id": "[5.8\"-6.3\")",
+                    "name": "5,8 a 6,2 \"",
+                    "results": 11340
+                },
+                {
+                    "id": "[6.3\"-*)",
+                    "name": "6,3 \" o más",
+                    "results": 12620
+                }
+            ]
+        },
+        {
+            "id": "INTERNAL_MEMORY",
+            "name": "Memoria interna",
+            "type": "range",
+            "values": [
+                {
+                    "id": "(*-32GB)",
+                    "name": "Menos de 32 GB",
+                    "results": 9020
+                },
+                {
+                    "id": "[32GB-128GB)",
+                    "name": "32 a 127 GB",
+                    "results": 21920
+                },
+                {
+                    "id": "[128GB-256GB)",
+                    "name": "128 a 255 GB",
+                    "results": 12520
+                },
+                {
+                    "id": "[256GB-*)",
+                    "name": "256 GB o más",
+                    "results": 4710
+                }
+            ]
+        },
+        {
+            "id": "IS_DUAL_SIM",
+            "name": "Otras características",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "242085",
+                    "name": "Es Dual SIM",
+                    "results": 7320
+                }
+            ]
+        },
+        {
+            "id": "IS_WATER_RESISTANT",
+            "name": "Otras características",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "242085",
+                    "name": "Es resistente al agua",
+                    "results": 21150
+                }
+            ]
+        },
+        {
+            "id": "ITEM_CONDITION",
+            "name": "Condición",
+            "type": "STRING",
+            "values": [
+                {
+                    "id": "2230581",
+                    "name": "Usado",
+                    "results": 40850
+                },
+                {
+                    "id": "2230284",
+                    "name": "Nuevo",
+                    "results": 5680
+                },
+                {
+                    "id": "2230582",
+                    "name": "Reacondicionado",
+                    "results": 2070
+                }
+            ]
+        },
+        {
+            "id": "LINE",
+            "name": "Línea",
+            "type": "STRING",
+            "values": [
+                {
+                    "id": "58993",
+                    "name": "iPhone",
+                    "results": 21890
+                },
+                {
+                    "id": "322977",
+                    "name": "Galaxy A",
+                    "results": 4270
+                },
+                {
+                    "id": "249991",
+                    "name": "Galaxy S",
+                    "results": 3200
+                },
+                {
+                    "id": "3073863",
+                    "name": "Moto G",
+                    "results": 3030
+                },
+                {
+                    "id": "195973",
+                    "name": "Galaxy J",
+                    "results": 2280
+                },
+                {
+                    "id": "199791",
+                    "name": "Redmi",
+                    "results": 1610
+                },
+                {
+                    "id": "975255",
+                    "name": "Moto E",
+                    "results": 1170
+                },
+                {
+                    "id": "43675",
+                    "name": "Galaxy",
+                    "results": 960
+                },
+                {
+                    "id": "59783",
+                    "name": "Mi",
+                    "results": 790
+                },
+                {
+                    "id": "51851",
+                    "name": "One",
+                    "results": 580
+                },
+                {
+                    "id": "322859",
+                    "name": "Galaxy Note",
+                    "results": 530
+                },
+                {
+                    "id": "5639416",
+                    "name": "Edge",
+                    "results": 390
+                },
+                {
+                    "id": "436962",
+                    "name": "K Series",
+                    "results": 310
+                },
+                {
+                    "id": "107809",
+                    "name": "P Series",
+                    "results": 300
+                },
+                {
+                    "id": "427899",
+                    "name": "Mate Series",
+                    "results": 210
+                },
+                {
+                    "id": "1372",
+                    "name": "Xperia",
+                    "results": 210
+                },
+                {
+                    "id": "11073095",
+                    "name": "Pocophone",
+                    "results": 210
+                },
+                {
+                    "id": "3085043",
+                    "name": "Moto X",
+                    "results": 190
+                },
+                {
+                    "id": "8259892",
+                    "name": "Galaxy Z",
+                    "results": 180
+                },
+                {
+                    "id": "338692",
+                    "name": "Galaxy Grand",
+                    "results": 150
+                },
+                {
+                    "id": "6982639",
+                    "name": "Galaxy M",
+                    "results": 140
+                },
+                {
+                    "id": "59187",
+                    "name": "Moto",
+                    "results": 130
+                },
+                {
+                    "id": "53732",
+                    "name": "G Series",
+                    "results": 120
+                },
+                {
+                    "id": "3104264",
+                    "name": "Moto Z",
+                    "results": 120
+                },
+                {
+                    "id": "60083",
+                    "name": "OneTouch",
+                    "results": 110
+                },
+                {
+                    "id": "5441",
+                    "name": "Lumia",
+                    "results": 110
+                },
+                {
+                    "id": "9095",
+                    "name": "Curve",
+                    "results": 100
+                },
+                {
+                    "id": "8845",
+                    "name": "Asha",
+                    "results": 80
+                },
+                {
+                    "id": "8008725",
+                    "name": "Moto C",
+                    "results": 80
+                },
+                {
+                    "id": "333993",
+                    "name": "Galaxy Core",
+                    "results": 80
+                },
+                {
+                    "id": "225933",
+                    "name": "Y Series",
+                    "results": 80
+                },
+                {
+                    "id": "2223238",
+                    "name": "Q Series",
+                    "results": 60
+                },
+                {
+                    "id": "8857",
+                    "name": "RAZR",
+                    "results": 40
+                },
+                {
+                    "id": "7918494",
+                    "name": "Black Shark",
+                    "results": 40
+                },
+                {
+                    "id": "145034",
+                    "name": "Nseries",
+                    "results": 40
+                },
+                {
+                    "id": "121808",
+                    "name": "ZenFone",
+                    "results": 40
+                },
+                {
+                    "id": "109496",
+                    "name": "Blade",
+                    "results": 40
+                },
+                {
+                    "id": "8772",
+                    "name": "Optimus",
+                    "results": 30
+                },
+                {
+                    "id": "37387",
+                    "name": "Ascend",
+                    "results": 30
+                },
+                {
+                    "id": "2332868",
+                    "name": "Life Series",
+                    "results": 30
+                },
+                {
+                    "id": "1249632",
+                    "name": "Vivo Series",
+                    "results": 30
+                }
+            ]
+        },
+        {
+            "id": "MAIN_COLOR",
+            "name": "Color principal",
+            "type": "list",
+            "values": [
+                {
+                    "id": "2450295",
+                    "name": "Negro",
+                    "results": 13100
+                },
+                {
+                    "id": "2450294",
+                    "name": "Gris",
+                    "results": 9290
+                },
+                {
+                    "id": "2450293",
+                    "name": "Azul",
+                    "results": 5100
+                },
+                {
+                    "id": "2450308",
+                    "name": "Blanco",
+                    "results": 3300
+                },
+                {
+                    "id": "2450289",
+                    "name": "Dorado",
+                    "results": 3290
+                },
+                {
+                    "id": "2450312",
+                    "name": "Rosa",
+                    "results": 1860
+                },
+                {
+                    "id": "2450307",
+                    "name": "Rojo",
+                    "results": 1060
+                },
+                {
+                    "id": "2450314",
+                    "name": "Verde",
+                    "results": 880
+                },
+                {
+                    "id": "2450311",
+                    "name": "Violeta",
+                    "results": 590
+                },
+                {
+                    "id": "2450303",
+                    "name": "Plateado",
+                    "results": 190
+                },
+                {
+                    "id": "2450299",
+                    "name": "Gris oscuro",
+                    "results": 150
+                },
+                {
+                    "id": "2450296",
+                    "name": "Amarillo",
+                    "results": 120
+                },
+                {
+                    "id": "2450327",
+                    "name": "Naranja",
+                    "results": 80
+                },
+                {
+                    "id": "2450280",
+                    "name": "Rosa claro",
+                    "results": 70
+                },
+                {
+                    "id": "2450278",
+                    "name": "Celeste",
+                    "results": 60
+                },
+                {
+                    "id": "2450316",
+                    "name": "Lavanda",
+                    "results": 50
+                },
+                {
+                    "id": "2450325",
+                    "name": "Azul marino",
+                    "results": 40
+                },
+                {
+                    "id": "2450322",
+                    "name": "Bordó",
+                    "results": 30
+                },
+                {
+                    "id": "2450298",
+                    "name": "Azul claro",
+                    "results": 30
+                }
+            ]
+        },
+        {
+            "id": "MAIN_FRONT_CAMERA_RESOLUTION",
+            "name": "Resolución de la cámara frontal principal",
+            "type": "range",
+            "values": [
+                {
+                    "id": "(*-7Mpx)",
+                    "name": "7 Mpx o menos",
+                    "results": 11630
+                },
+                {
+                    "id": "[7Mpx-8Mpx)",
+                    "name": "7 Mpx",
+                    "results": 12620
+                },
+                {
+                    "id": "[8Mpx-13Mpx)",
+                    "name": "8 a 12 Mpx",
+                    "results": 11370
+                },
+                {
+                    "id": "[13Mpx-*)",
+                    "name": "13 Mpx o más",
+                    "results": 8530
+                }
+            ]
+        },
+        {
+            "id": "MAIN_REAR_CAMERA_RESOLUTION",
+            "name": "Resolución de la cámara trasera principal",
+            "type": "range",
+            "values": [
+                {
+                    "id": "(*-13Mpx)",
+                    "name": "13 Mpx o menos",
+                    "results": 27860
+                },
+                {
+                    "id": "[13Mpx-16Mpx)",
+                    "name": "13 a 15 Mpx",
+                    "results": 5360
+                },
+                {
+                    "id": "[16Mpx-50Mpx)",
+                    "name": "16 a 49 Mpx",
+                    "results": 7140
+                },
+                {
+                    "id": "[50Mpx-*)",
+                    "name": "50 Mpx o más",
+                    "results": 4380
+                }
+            ]
+        },
+        {
+            "id": "MOBILE_NETWORK",
+            "name": "Red",
+            "type": "STRING",
+            "values": [
+                {
+                    "id": "367876",
+                    "name": "4G/LTE",
+                    "results": 38210
+                },
+                {
+                    "id": "7472027",
+                    "name": "5G",
+                    "results": 4300
+                },
+                {
+                    "id": "7472026",
+                    "name": "2G",
+                    "results": 510
+                },
+                {
+                    "id": "367874",
+                    "name": "3G",
+                    "results": 510
+                },
+                {
+                    "id": "9133368",
+                    "name": "4G",
+                    "results": 100
+                }
+            ]
+        },
+        {
+            "id": "MODEL",
+            "name": "Modelo",
+            "type": "STRING",
+            "values": [
+                {
+                    "id": "312155",
+                    "name": "iPhone 7",
+                    "results": 2720
+                },
+                {
+                    "id": "312157",
+                    "name": "iPhone 7 Plus",
+                    "results": 1910
+                },
+                {
+                    "id": "312151",
+                    "name": "iPhone 6s",
+                    "results": 1700
+                },
+                {
+                    "id": "2244673",
+                    "name": "iPhone 8 Plus",
+                    "results": 1660
+                },
+                {
+                    "id": "5414260",
+                    "name": "iPhone XR",
+                    "results": 1510
+                },
+                {
+                    "id": "1164456",
+                    "name": "iPhone X",
+                    "results": 1500
+                },
+                {
+                    "id": "7739079",
+                    "name": "iPhone 11",
+                    "results": 1490
+                },
+                {
+                    "id": "2244670",
+                    "name": "iPhone 8",
+                    "results": 1480
+                },
+                {
+                    "id": "312149",
+                    "name": "iPhone 6",
+                    "results": 1320
+                },
+                {
+                    "id": "312154",
+                    "name": "iPhone SE",
+                    "results": 660
+                },
+                {
+                    "id": "5414079",
+                    "name": "iPhone XS",
+                    "results": 590
+                },
+                {
+                    "id": "5414168",
+                    "name": "iPhone XS Max",
+                    "results": 560
+                },
+                {
+                    "id": "7741023",
+                    "name": "iPhone 11 Pro",
+                    "results": 430
+                },
+                {
+                    "id": "7741677",
+                    "name": "iPhone 11 Pro Max",
+                    "results": 420
+                },
+                {
+                    "id": "9081382",
+                    "name": "iPhone 12",
+                    "results": 410
+                },
+                {
+                    "id": "312153",
+                    "name": "iPhone 6s Plus",
+                    "results": 370
+                },
+                {
+                    "id": "11159139",
+                    "name": "iPhone 13",
+                    "results": 330
+                },
+                {
+                    "id": "8230322",
+                    "name": "iPhone SE (2nd Generation)",
+                    "results": 310
+                },
+                {
+                    "id": "8030",
+                    "name": "S8",
+                    "results": 310
+                },
+                {
+                    "id": "397729",
+                    "name": "J2 Prime",
+                    "results": 280
+                },
+                {
+                    "id": "9062754",
+                    "name": "S20 FE",
+                    "results": 270
+                },
+                {
+                    "id": "7693",
+                    "name": "A50",
+                    "results": 270
+                },
+                {
+                    "id": "7227",
+                    "name": "S10",
+                    "results": 260
+                },
+                {
+                    "id": "312150",
+                    "name": "iPhone 6 Plus",
+                    "results": 260
+                },
+                {
+                    "id": "11151776",
+                    "name": "iPhone 13 Pro Max",
+                    "results": 250
+                },
+                {
+                    "id": "312144",
+                    "name": "iPhone 5s",
+                    "results": 240
+                },
+                {
+                    "id": "11151811",
+                    "name": "iPhone 13 Pro",
+                    "results": 240
+                },
+                {
+                    "id": "367761",
+                    "name": "J7 (2016)",
+                    "results": 230
+                },
+                {
+                    "id": "21021",
+                    "name": "A51",
+                    "results": 220
+                },
+                {
+                    "id": "121553",
+                    "name": "J7",
+                    "results": 220
+                },
+                {
+                    "id": "9772338",
+                    "name": "S21 5G",
+                    "results": 210
+                },
+                {
+                    "id": "9022882",
+                    "name": "G9 Plus",
+                    "results": 200
+                },
+                {
+                    "id": "33373",
+                    "name": "A31",
+                    "results": 200
+                },
+                {
+                    "id": "9081384",
+                    "name": "iPhone 12 Pro",
+                    "results": 190
+                },
+                {
+                    "id": "8820330",
+                    "name": "A21s",
+                    "results": 190
+                },
+                {
+                    "id": "7951146",
+                    "name": "A30s",
+                    "results": 190
+                },
+                {
+                    "id": "3362707",
+                    "name": "Note 8",
+                    "results": 190
+                },
+                {
+                    "id": "2482820",
+                    "name": "S9+",
+                    "results": 190
+                },
+                {
+                    "id": "35040",
+                    "name": "A30",
+                    "results": 180
+                },
+                {
+                    "id": "3477305",
+                    "name": "A32",
+                    "results": 180
+                },
+                {
+                    "id": "312152",
+                    "name": "iPhone 5",
+                    "results": 180
+                },
+                {
+                    "id": "407926",
+                    "name": "J5 Prime",
+                    "results": 170
+                },
+                {
+                    "id": "9168194",
+                    "name": "G9 Power",
+                    "results": 160
+                },
+                {
+                    "id": "9003306",
+                    "name": "One Fusion",
+                    "results": 160
+                },
+                {
+                    "id": "8737",
+                    "name": "A70",
+                    "results": 160
+                },
+                {
+                    "id": "7753461",
+                    "name": "A10s",
+                    "results": 160
+                },
+                {
+                    "id": "373724",
+                    "name": "J7 Prime",
+                    "results": 160
+                },
+                {
+                    "id": "9081383",
+                    "name": "iPhone 12 mini",
+                    "results": 150
+                },
+                {
+                    "id": "8678042",
+                    "name": "Note 9",
+                    "results": 150
+                },
+                {
+                    "id": "37901",
+                    "name": "A52",
+                    "results": 150
+                },
+                {
+                    "id": "36732",
+                    "name": "A71",
+                    "results": 150
+                },
+                {
+                    "id": "361674",
+                    "name": "A12",
+                    "results": 150
+                },
+                {
+                    "id": "2929207",
+                    "name": "G30",
+                    "results": 150
+                },
+                {
+                    "id": "14608",
+                    "name": "iPhone",
+                    "results": 150
+                },
+                {
+                    "id": "1238313",
+                    "name": "J7 Neo",
+                    "results": 150
+                },
+                {
+                    "id": "9772342",
+                    "name": "S21 Ultra 5G",
+                    "results": 140
+                },
+                {
+                    "id": "9081385",
+                    "name": "iPhone 12 Pro Max",
+                    "results": 140
+                },
+                {
+                    "id": "6503782",
+                    "name": "G7 Power",
+                    "results": 140
+                },
+                {
+                    "id": "6008552",
+                    "name": "J6+",
+                    "results": 140
+                },
+                {
+                    "id": "117065",
+                    "name": "G20",
+                    "results": 140
+                },
+                {
+                    "id": "8480",
+                    "name": "A10",
+                    "results": 130
+                },
+                {
+                    "id": "8041156",
+                    "name": "Mate 10 Lite",
+                    "results": 130
+                },
+                {
+                    "id": "7917261",
+                    "name": "Note 7 (48 Mpx)",
+                    "results": 130
+                },
+                {
+                    "id": "69693",
+                    "name": "Edge",
+                    "results": 130
+                },
+                {
+                    "id": "420003",
+                    "name": "G5 Plus",
+                    "results": 130
+                },
+                {
+                    "id": "3267924",
+                    "name": "E5 Play",
+                    "results": 130
+                },
+                {
+                    "id": "25749",
+                    "name": "S8+",
+                    "results": 130
+                },
+                {
+                    "id": "9022888",
+                    "name": "G9 Play",
+                    "results": 120
+                },
+                {
+                    "id": "8160194",
+                    "name": "S7 Edge",
+                    "results": 120
+                },
+                {
+                    "id": "8073",
+                    "name": "A20",
+                    "results": 120
+                },
+                {
+                    "id": "6494571",
+                    "name": "G7 Plus",
+                    "results": 120
+                },
+                {
+                    "id": "11149069",
+                    "name": "Z Flip3 5G",
+                    "results": 120
+                },
+                {
+                    "id": "8150127",
+                    "name": "20 Pro",
+                    "results": 110
+                },
+                {
+                    "id": "25808",
+                    "name": "S10+",
+                    "results": 110
+                },
+                {
+                    "id": "1957",
+                    "name": "S9",
+                    "results": 110
+                },
+                {
+                    "id": "102486",
+                    "name": "Grand Prime",
+                    "results": 110
+                },
+                {
+                    "id": "8988",
+                    "name": "E7",
+                    "results": 100
+                },
+                {
+                    "id": "7867801",
+                    "name": "E6 Plus",
+                    "results": 100
+                },
+                {
+                    "id": "3376875",
+                    "name": "A02",
+                    "results": 100
+                },
+                {
+                    "id": "256745",
+                    "name": "S7",
+                    "results": 100
+                },
+                {
+                    "id": "1249911",
+                    "name": "G5S Plus",
+                    "results": 100
+                },
+                {
+                    "id": "9062841",
+                    "name": "E7 Plus",
+                    "results": 90
+                },
+                {
+                    "id": "9003227",
+                    "name": "A01 Core",
+                    "results": 90
+                },
+                {
+                    "id": "8999265",
+                    "name": "Note20 Ultra",
+                    "results": 90
+                },
+                {
+                    "id": "8802146",
+                    "name": "G8 Power Lite",
+                    "results": 90
+                },
+                {
+                    "id": "8202803",
+                    "name": "G8 Power",
+                    "results": 90
+                },
+                {
+                    "id": "8081585",
+                    "name": "S20+",
+                    "results": 90
+                },
+                {
+                    "id": "8074",
+                    "name": "G6",
+                    "results": 90
+                },
+                {
+                    "id": "7863873",
+                    "name": "Note 8 Pro",
+                    "results": 90
+                },
+                {
+                    "id": "7753383",
+                    "name": "Note10",
+                    "results": 90
+                },
+                {
+                    "id": "6444567",
+                    "name": "G7 Play",
+                    "results": 90
+                },
+                {
+                    "id": "6177902",
+                    "name": "J2 Core",
+                    "results": 90
+                },
+                {
+                    "id": "389521",
+                    "name": "J6",
+                    "results": 90
+                },
+                {
+                    "id": "17878",
+                    "name": "A11",
+                    "results": 90
+                },
+                {
+                    "id": "121559",
+                    "name": "A5",
+                    "results": 90
+                },
+                {
+                    "id": "11889214",
+                    "name": "Note 11 (Snapdragon)",
+                    "results": 90
+                },
+                {
+                    "id": "11666556",
+                    "name": "S21 FE 5G",
+                    "results": 90
+                },
+                {
+                    "id": "11178784",
+                    "name": "iPhone 13 mini",
+                    "results": 90
+                },
+                {
+                    "id": "11073240",
+                    "name": "G60s",
+                    "results": 90
+                },
+                {
+                    "id": "11043",
+                    "name": "8",
+                    "results": 90
+                },
+                {
+                    "id": "102288",
+                    "name": "S6",
+                    "results": 90
+                },
+                {
+                    "id": "100090",
+                    "name": "S10e",
+                    "results": 90
+                },
+                {
+                    "id": "972239",
+                    "name": "Z2 Play",
+                    "results": 80
+                },
+                {
+                    "id": "9676770",
+                    "name": "A02s",
+                    "results": 80
+                },
+                {
+                    "id": "8002047",
+                    "name": "1 Plus",
+                    "results": 80
+                },
+                {
+                    "id": "7903923",
+                    "name": "G8 Plus",
+                    "results": 80
+                },
+                {
+                    "id": "7867796",
+                    "name": "E6 Play",
+                    "results": 80
+                },
+                {
+                    "id": "7397917",
+                    "name": "9T",
+                    "results": 80
+                },
+                {
+                    "id": "5988248",
+                    "name": "8 Lite",
+                    "results": 80
+                },
+                {
+                    "id": "54218",
+                    "name": "A13",
+                    "results": 80
+                },
+                {
+                    "id": "3826730",
+                    "name": "A01",
+                    "results": 80
+                },
+                {
+                    "id": "34546",
+                    "name": "1",
+                    "results": 80
+                },
+                {
+                    "id": "2876818",
+                    "name": "G6 Play",
+                    "results": 80
+                },
+                {
+                    "id": "2582597",
+                    "name": "Note8",
+                    "results": 80
+                },
+                {
+                    "id": "231612",
+                    "name": "A03",
+                    "results": 80
+                },
+                {
+                    "id": "124714",
+                    "name": "G4",
+                    "results": 80
+                },
+                {
+                    "id": "10275844",
+                    "name": "Note 10 5G",
+                    "results": 80
+                },
+                {
+                    "id": "9806048",
+                    "name": "9 (Global)",
+                    "results": 70
+                },
+                {
+                    "id": "8217862",
+                    "name": "Note 9S",
+                    "results": 70
+                },
+                {
+                    "id": "8002086",
+                    "name": "A20s",
+                    "results": 70
+                },
+                {
+                    "id": "7952998",
+                    "name": "One Macro",
+                    "results": 70
+                },
+                {
+                    "id": "7905037",
+                    "name": "G8 Play",
+                    "results": 70
+                },
+                {
+                    "id": "75860",
+                    "name": "J4",
+                    "results": 70
+                },
+                {
+                    "id": "7442246",
+                    "name": "G31",
+                    "results": 70
+                },
+                {
+                    "id": "6358",
+                    "name": "S20",
+                    "results": 70
+                },
+                {
+                    "id": "59350",
+                    "name": "A3",
+                    "results": 70
+                },
+                {
+                    "id": "4525419",
+                    "name": "One Vision",
+                    "results": 70
+                },
+                {
+                    "id": "2915826",
+                    "name": "G6 Plus",
+                    "results": 70
+                },
+                {
+                    "id": "199623",
+                    "name": "J2",
+                    "results": 70
+                },
+                {
+                    "id": "184685",
+                    "name": "X Play",
+                    "results": 70
+                },
+                {
+                    "id": "12063780",
+                    "name": "S22 Ultra Dual SIM (Snapdragon)",
+                    "results": 70
+                },
+                {
+                    "id": "10206408",
+                    "name": "E7i Power",
+                    "results": 70
+                },
+                {
+                    "id": "9961148",
+                    "name": "Note 10 Pro (Global)",
+                    "results": 60
+                },
+                {
+                    "id": "9869996",
+                    "name": "E6i",
+                    "results": 60
+                },
+                {
+                    "id": "9772340",
+                    "name": "S21+ 5G",
+                    "results": 60
+                },
+                {
+                    "id": "8999271",
+                    "name": "Note20",
+                    "results": 60
+                },
+                {
+                    "id": "8797",
+                    "name": "E5",
+                    "results": 60
+                },
+                {
+                    "id": "8259891",
+                    "name": "Z Flip",
+                    "results": 60
+                },
+                {
+                    "id": "8160184",
+                    "name": "S6 Edge",
+                    "results": 60
+                },
+                {
+                    "id": "8150118",
+                    "name": "20 Lite",
+                    "results": 60
+                },
+                {
+                    "id": "8081589",
+                    "name": "S20 Ultra",
+                    "results": 60
+                },
+                {
+                    "id": "8041150",
+                    "name": "P9 Lite",
+                    "results": 60
+                },
+                {
+                    "id": "7732943",
+                    "name": "Note10+",
+                    "results": 60
+                },
+                {
+                    "id": "7720292",
+                    "name": "9T Pro",
+                    "results": 60
+                },
+                {
+                    "id": "54285",
+                    "name": "One",
+                    "results": 60
+                },
+                {
+                    "id": "49426",
+                    "name": "9",
+                    "results": 60
+                },
+                {
+                    "id": "416141",
+                    "name": "A5 (2017)",
+                    "results": 60
+                },
+                {
+                    "id": "3376876",
+                    "name": "A22",
+                    "results": 60
+                },
+                {
+                    "id": "312143",
+                    "name": "iPhone 5c",
+                    "results": 60
+                },
+                {
+                    "id": "2228",
+                    "name": "G5",
+                    "results": 60
+                },
+                {
+                    "id": "18581",
+                    "name": "K4",
+                    "results": 60
+                },
+                {
+                    "id": "12097020",
+                    "name": "G51 5G",
+                    "results": 60
+                },
+                {
+                    "id": "12064127",
+                    "name": "S22 Ultra (Snapdragon)",
+                    "results": 60
+                },
+                {
+                    "id": "102416",
+                    "name": "E (2nd Gen.)",
+                    "results": 60
+                },
+                {
+                    "id": "9869984",
+                    "name": "G71",
+                    "results": 50
+                },
+                {
+                    "id": "8786479",
+                    "name": "9A",
+                    "results": 50
+                },
+                {
+                    "id": "8163",
+                    "name": "E40",
+                    "results": 50
+                },
+                {
+                    "id": "74859",
+                    "name": "S III",
+                    "results": 50
+                },
+                {
+                    "id": "6982648",
+                    "name": "A30 Duos",
+                    "results": 50
+                },
+                {
+                    "id": "6982643",
+                    "name": "A50 Duos",
+                    "results": 50
+                },
+                {
+                    "id": "58615",
+                    "name": "5",
+                    "results": 50
+                },
+                {
+                    "id": "5640167",
+                    "name": "J7 Prime Duos",
+                    "results": 50
+                },
+                {
+                    "id": "45327",
+                    "name": "11",
+                    "results": 50
+                },
+                {
+                    "id": "419509",
+                    "name": "A7 (2017)",
+                    "results": 50
+                },
+                {
+                    "id": "367754",
+                    "name": "J7 (2016) Duos",
+                    "results": 50
+                },
+                {
+                    "id": "3666",
+                    "name": "G7",
+                    "results": 50
+                },
+                {
+                    "id": "360867",
+                    "name": "G4 Play",
+                    "results": 50
+                },
+                {
+                    "id": "3375364",
+                    "name": "3H",
+                    "results": 50
+                },
+                {
+                    "id": "33743",
+                    "name": "S4",
+                    "results": 50
+                },
+                {
+                    "id": "2738054",
+                    "name": "9C",
+                    "results": 50
+                },
+                {
+                    "id": "27251",
+                    "name": "7",
+                    "results": 50
+                },
+                {
+                    "id": "195948",
+                    "name": "J1",
+                    "results": 50
+                },
+                {
+                    "id": "16118",
+                    "name": "W9",
+                    "results": 50
+                },
+                {
+                    "id": "14610",
+                    "name": "iPhone 4",
+                    "results": 50
+                },
+                {
+                    "id": "122804",
+                    "name": "G (3rd Gen.)",
+                    "results": 50
+                },
+                {
+                    "id": "121592",
+                    "name": "J5",
+                    "results": 50
+                },
+                {
+                    "id": "12039287",
+                    "name": "20E",
+                    "results": 50
+                },
+                {
+                    "id": "11765035",
+                    "name": "A51 Dual SIM",
+                    "results": 50
+                },
+                {
+                    "id": "1158067",
+                    "name": "C Plus",
+                    "results": 50
+                },
+                {
+                    "id": "11289380",
+                    "name": "A52s 5G",
+                    "results": 50
+                },
+                {
+                    "id": "1115611",
+                    "name": "E4 Plus",
+                    "results": 50
+                },
+                {
+                    "id": "11076406",
+                    "name": "Z Fold3 5G",
+                    "results": 50
+                },
+                {
+                    "id": "11058374",
+                    "name": "A71 Dual SIM",
+                    "results": 50
+                },
+                {
+                    "id": "10645220",
+                    "name": "A22 5G",
+                    "results": 50
+                },
+                {
+                    "id": "10275843",
+                    "name": "Note 10S",
+                    "results": 50
+                },
+                {
+                    "id": "10272",
+                    "name": "G100",
+                    "results": 50
+                },
+                {
+                    "id": "10185056",
+                    "name": "Poco X3 Pro",
+                    "results": 50
+                },
+                {
+                    "id": "9676776",
+                    "name": "6s",
+                    "results": 40
+                },
+                {
+                    "id": "9676771",
+                    "name": "A12 Duos",
+                    "results": 40
+                },
+                {
+                    "id": "9100979",
+                    "name": "Note 9 Pro (64 Mpx)",
+                    "results": 40
+                },
+                {
+                    "id": "9062752",
+                    "name": "S20 FE 5G",
+                    "results": 40
+                },
+                {
+                    "id": "9062737",
+                    "name": "A72",
+                    "results": 40
+                },
+                {
+                    "id": "8902004",
+                    "name": "G41",
+                    "results": 40
+                },
+                {
+                    "id": "8659440",
+                    "name": "Note5",
+                    "results": 40
+                },
+                {
+                    "id": "8012927",
+                    "name": "One Hyper",
+                    "results": 40
+                },
+                {
+                    "id": "7917823",
+                    "name": "E5 Play (Go Edition)",
+                    "results": 40
+                },
+                {
+                    "id": "7753462",
+                    "name": "A10s Duos",
+                    "results": 40
+                },
+                {
+                    "id": "7698",
+                    "name": "A1",
+                    "results": 40
+                },
+                {
+                    "id": "7477394",
+                    "name": "J4 Core",
+                    "results": 40
+                },
+                {
+                    "id": "59833",
+                    "name": "6",
+                    "results": 40
+                },
+                {
+                    "id": "56440",
+                    "name": "i418",
+                    "results": 40
+                },
+                {
+                    "id": "56376",
+                    "name": "i867",
+                    "results": 40
+                },
+                {
+                    "id": "5454765",
+                    "name": "A7 (2018)",
+                    "results": 40
+                },
+                {
+                    "id": "503995",
+                    "name": "J1 Ace 4G",
+                    "results": 40
+                },
+                {
+                    "id": "4957161",
+                    "name": "Note 6 Pro",
+                    "results": 40
+                },
+                {
+                    "id": "3926628",
+                    "name": "A2 Lite",
+                    "results": 40
+                },
+                {
+                    "id": "36221",
+                    "name": "8520",
+                    "results": 40
+                },
+                {
+                    "id": "360754",
+                    "name": "Y6",
+                    "results": 40
+                },
+                {
+                    "id": "35727",
+                    "name": "G51",
+                    "results": 40
+                },
+                {
+                    "id": "312145",
+                    "name": "iPhone 4s",
+                    "results": 40
+                },
+                {
+                    "id": "2793269",
+                    "name": "P241",
+                    "results": 40
+                },
+                {
+                    "id": "264634",
+                    "name": "G4 Plus",
+                    "results": 40
+                },
+                {
+                    "id": "262783",
+                    "name": "J5 (2016)",
+                    "results": 40
+                },
+                {
+                    "id": "2216840",
+                    "name": "5T",
+                    "results": 40
+                },
+                {
+                    "id": "15990",
+                    "name": "Q6",
+                    "results": 40
+                },
+                {
+                    "id": "11958184",
+                    "name": "iPhone SE (3rd Generation)",
+                    "results": 40
+                },
+                {
+                    "id": "119427",
+                    "name": "A23",
+                    "results": 40
+                },
+                {
+                    "id": "11796908",
+                    "name": "G200 5G",
+                    "results": 40
+                },
+                {
+                    "id": "11617624",
+                    "name": "A03 Core",
+                    "results": 40
+                },
+                {
+                    "id": "11303578",
+                    "name": "11T Pro",
+                    "results": 40
+                },
+                {
+                    "id": "11068212",
+                    "name": "A21s Dual SIM",
+                    "results": 40
+                },
+                {
+                    "id": "10570",
+                    "name": "1100",
+                    "results": 40
+                },
+                {
+                    "id": "10567657",
+                    "name": "Poco M3 Pro 5G",
+                    "results": 40
+                },
+                {
+                    "id": "97885",
+                    "name": "Core 2",
+                    "results": 30
+                },
+                {
+                    "id": "97882",
+                    "name": "G (2nd Gen.)",
+                    "results": 30
+                },
+                {
+                    "id": "9772346",
+                    "name": "20 SE",
+                    "results": 30
+                },
+                {
+                    "id": "9772341",
+                    "name": "S21 Ultra 5G Duos",
+                    "results": 30
+                },
+                {
+                    "id": "9727657",
+                    "name": "110 (2019)",
+                    "results": 30
+                },
+                {
+                    "id": "9267",
+                    "name": "10",
+                    "results": 30
+                },
+                {
+                    "id": "9168195",
+                    "name": "G9 Power Dual SIM",
+                    "results": 30
+                },
+                {
+                    "id": "9167745",
+                    "name": "XCover Pro",
+                    "results": 30
+                },
+                {
+                    "id": "9062743",
+                    "name": "10T 5G",
+                    "results": 30
+                },
+                {
+                    "id": "9029295",
+                    "name": "Poco X3 NFC",
+                    "results": 30
+                },
+                {
+                    "id": "9022889",
+                    "name": "G9 Play Dual SIM",
+                    "results": 30
+                },
+                {
+                    "id": "8948015",
+                    "name": "One Fusion Dual SIM",
+                    "results": 30
+                },
+                {
+                    "id": "8840526",
+                    "name": "E6s (2020)",
+                    "results": 30
+                },
+                {
+                    "id": "8727",
+                    "name": "L1",
+                    "results": 30
+                },
+                {
+                    "id": "8172997",
+                    "name": "One Macro Dual SIM",
+                    "results": 30
+                },
+                {
+                    "id": "8160195",
+                    "name": "S7 Edge Duos",
+                    "results": 30
+                },
+                {
+                    "id": "8045140",
+                    "name": "P Smart",
+                    "results": 30
+                },
+                {
+                    "id": "8041145",
+                    "name": "P30 Lite",
+                    "results": 30
+                },
+                {
+                    "id": "7979121",
+                    "name": "Note 10",
+                    "results": 30
+                },
+                {
+                    "id": "7889430",
+                    "name": "120t",
+                    "results": 30
+                },
+                {
+                    "id": "7868336",
+                    "name": "3.1 Plus",
+                    "results": 30
+                },
+                {
+                    "id": "7798176",
+                    "name": "One Action",
+                    "results": 30
+                },
+                {
+                    "id": "6669713",
+                    "name": "S10+ Duos",
+                    "results": 30
+                },
+                {
+                    "id": "6008563",
+                    "name": "J4+",
+                    "results": 30
+                },
+                {
+                    "id": "59926",
+                    "name": "C",
+                    "results": 30
+                },
+                {
+                    "id": "59744",
+                    "name": "Ace",
+                    "results": 30
+                },
+                {
+                    "id": "58944",
+                    "name": "G8",
+                    "results": 30
+                },
+                {
+                    "id": "58054",
+                    "name": "XR",
+                    "results": 30
+                },
+                {
+                    "id": "5640182",
+                    "name": "J8 Duos",
+                    "results": 30
+                },
+                {
+                    "id": "52828",
+                    "name": "7 Plus",
+                    "results": 30
+                },
+                {
+                    "id": "4967971",
+                    "name": "G7 ThinQ",
+                    "results": 30
+                },
+                {
+                    "id": "46485",
+                    "name": "Note II",
+                    "results": 30
+                },
+                {
+                    "id": "44111",
+                    "name": "10C",
+                    "results": 30
+                },
+                {
+                    "id": "420981",
+                    "name": "IronRock",
+                    "results": 30
+                },
+                {
+                    "id": "416193",
+                    "name": "E5 Dual SIM",
+                    "results": 30
+                },
+                {
+                    "id": "407921",
+                    "name": "X Pure Edition",
+                    "results": 30
+                },
+                {
+                    "id": "333994",
+                    "name": "Core",
+                    "results": 30
+                },
+                {
+                    "id": "32505",
+                    "name": "i730",
+                    "results": 30
+                },
+                {
+                    "id": "31443",
+                    "name": "A2",
+                    "results": 30
+                },
+                {
+                    "id": "2795430",
+                    "name": "K40",
+                    "results": 30
+                },
+                {
+                    "id": "275004",
+                    "name": "G (1st Gen.)",
+                    "results": 30
+                },
+                {
+                    "id": "274423",
+                    "name": "E (1st Gen.)",
+                    "results": 30
+                },
+                {
+                    "id": "258353",
+                    "name": "P8 Lite",
+                    "results": 30
+                },
+                {
+                    "id": "2420284",
+                    "name": "J7 Pro",
+                    "results": 30
+                },
+                {
+                    "id": "2166499",
+                    "name": "Y300",
+                    "results": 30
+                },
+                {
+                    "id": "2117760",
+                    "name": "F183",
+                    "results": 30
+                },
+                {
+                    "id": "175584",
+                    "name": "A7",
+                    "results": 30
+                },
+                {
+                    "id": "15872",
+                    "name": "N95",
+                    "results": 30
+                },
+                {
+                    "id": "156630",
+                    "name": "S4 Mini",
+                    "results": 30
+                },
+                {
+                    "id": "124744",
+                    "name": "J7 Duos",
+                    "results": 30
+                },
+                {
+                    "id": "12172044",
+                    "name": "Indus",
+                    "results": 30
+                },
+                {
+                    "id": "121551",
+                    "name": "X (2nd Gen.)",
+                    "results": 30
+                },
+                {
+                    "id": "121339",
+                    "name": "M4 Aqua",
+                    "results": 30
+                },
+                {
+                    "id": "11763653",
+                    "name": "A03 Dual SIM",
+                    "results": 30
+                },
+                {
+                    "id": "11689872",
+                    "name": "A31 Lite",
+                    "results": 30
+                },
+                {
+                    "id": "11600154",
+                    "name": "Note 11 Pro",
+                    "results": 30
+                },
+                {
+                    "id": "11551155",
+                    "name": "Pixel 6 Pro",
+                    "results": 30
+                },
+                {
+                    "id": "11065032",
+                    "name": "S20 Dual SIM",
+                    "results": 30
+                },
+                {
+                    "id": "11004844",
+                    "name": "Poco X3 GT",
+                    "results": 30
+                },
+                {
+                    "id": "10739288",
+                    "name": "M12 (5000 mAh)",
+                    "results": 30
+                },
+                {
+                    "id": "102406",
+                    "name": "535",
+                    "results": 30
+                },
+                {
+                    "id": "10185062",
+                    "name": "11 Pro",
+                    "results": 30
+                },
+                {
+                    "id": "10185055",
+                    "name": "Poco F3 5G",
+                    "results": 30
+                }
+            ]
+        },
+        {
+            "id": "OPERATING_SYSTEM_NAME",
+            "name": "Nombre del sistema operativo",
+            "type": "STRING",
+            "values": [
+                {
+                    "id": "7403813",
+                    "name": "Android",
+                    "results": 22450
+                },
+                {
+                    "id": "7404961",
+                    "name": "iOS",
+                    "results": 21940
+                },
+                {
+                    "id": "7239397",
+                    "name": "Windows Phone",
+                    "results": 50
+                },
+                {
+                    "id": "8033910",
+                    "name": "Nokia",
+                    "results": 40
+                }
+            ]
+        },
+        {
+            "id": "RAM",
+            "name": "Memoria RAM",
+            "type": "range",
+            "values": [
+                {
+                    "id": "(*-2GB]",
+                    "name": "2 GB o menos",
+                    "results": 16740
+                },
+                {
+                    "id": "[3GB-3GB]",
+                    "name": "3 GB",
+                    "results": 8960
+                },
+                {
+                    "id": "[4GB-4GB]",
+                    "name": "4 GB",
+                    "results": 12070
+                },
+                {
+                    "id": "[5GB-5GB]",
+                    "name": "5 GB",
+                    "results": 100
+                },
+                {
+                    "id": "[6GB-6GB]",
+                    "name": "6 GB",
+                    "results": 4130
+                },
+                {
+                    "id": "[8GB-*)",
+                    "name": "8 GB o más",
+                    "results": 6080
+                }
+            ]
+        },
+        {
+            "id": "WITH_FACIAL_RECOGNITION",
+            "name": "Otras características",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "242085",
+                    "name": "Con reconocimiento facial",
+                    "results": 20970
+                }
+            ]
+        },
+        {
+            "id": "WITH_FAST_CHARGING",
+            "name": "Otras características",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "242085",
+                    "name": "Con carga rápida",
+                    "results": 18940
+                }
+            ]
+        },
+        {
+            "id": "WITH_FINGERPRINT_READER",
+            "name": "Otras características",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "242085",
+                    "name": "Con lector de huella digital",
+                    "results": 30610
+                }
+            ]
+        },
+        {
+            "id": "WITH_NFC",
+            "name": "Otras características",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "242085",
+                    "name": "Con NFC",
+                    "results": 25570
+                }
+            ]
+        }
+    ]
+}

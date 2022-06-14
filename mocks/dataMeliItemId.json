@@ -1,0 +1,347 @@
+{
+    "id": "MLA627715476",
+    "site_id": "MLA",
+    "title": "12 Batas Toalla Spa Nenas C/toallita D Mano Vincha,",
+    "subtitle": null,
+    "seller_id": 2890353,
+    "category_id": "MLA411028",
+    "official_store_id": null,
+    "price": 35000,
+    "base_price": 35000,
+    "original_price": null,
+    "currency_id": "ARS",
+    "initial_quantity": 101,
+    "available_quantity": 50,
+    "sold_quantity": 1,
+    "sale_terms": [
+        {
+            "id": "MANUFACTURING_TIME",
+            "name": "Disponibilidad de stock",
+            "value_id": null,
+            "value_name": "7 días",
+            "value_struct": {
+                "number": 7,
+                "unit": "días"
+            },
+            "values": [
+                {
+                    "id": null,
+                    "name": "7 días",
+                    "struct": {
+                        "number": 7,
+                        "unit": "días"
+                    }
+                }
+            ]
+        }
+    ],
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "start_time": "2016-07-15T17:36:51.000Z",
+    "stop_time": "2036-07-16T20:01:56.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-627715476-12-batas-toalla-spa-nenas-ctoallita-d-mano-vincha-_JM",
+    "thumbnail_id": "148521-MLA20818083064_072016",
+    "thumbnail": "http://http2.mlstatic.com/D_148521-MLA20818083064_072016-I.jpg",
+    "secure_thumbnail": "https://http2.mlstatic.com/D_148521-MLA20818083064_072016-I.jpg",
+    "pictures": [
+        {
+            "id": "148521-MLA20818083064_072016",
+            "url": "http://http2.mlstatic.com/D_148521-MLA20818083064_072016-O.jpg",
+            "secure_url": "https://http2.mlstatic.com/D_148521-MLA20818083064_072016-O.jpg",
+            "size": "500x375",
+            "max_size": "960x720",
+            "quality": ""
+        },
+        {
+            "id": "877813-MLA29120156662_012019",
+            "url": "http://http2.mlstatic.com/D_877813-MLA29120156662_012019-O.jpg",
+            "secure_url": "https://http2.mlstatic.com/D_877813-MLA29120156662_012019-O.jpg",
+            "size": "500x500",
+            "max_size": "960x960",
+            "quality": ""
+        },
+        {
+            "id": "649521-MLA20818080816_072016",
+            "url": "http://http2.mlstatic.com/D_649521-MLA20818080816_072016-O.jpg",
+            "secure_url": "https://http2.mlstatic.com/D_649521-MLA20818080816_072016-O.jpg",
+            "size": "500x333",
+            "max_size": "600x400",
+            "quality": ""
+        },
+        {
+            "id": "750143-MLA27603564038_062018",
+            "url": "http://http2.mlstatic.com/D_750143-MLA27603564038_062018-O.jpg",
+            "secure_url": "https://http2.mlstatic.com/D_750143-MLA27603564038_062018-O.jpg",
+            "size": "500x271",
+            "max_size": "1200x652",
+            "quality": ""
+        },
+        {
+            "id": "886521-MLA20818087197_072016",
+            "url": "http://http2.mlstatic.com/D_886521-MLA20818087197_072016-O.jpg",
+            "secure_url": "https://http2.mlstatic.com/D_886521-MLA20818087197_072016-O.jpg",
+            "size": "500x281",
+            "max_size": "960x540",
+            "quality": ""
+        },
+        {
+            "id": "972992-MLA29120256051_012019",
+            "url": "http://http2.mlstatic.com/D_972992-MLA29120256051_012019-O.jpg",
+            "secure_url": "https://http2.mlstatic.com/D_972992-MLA29120256051_012019-O.jpg",
+            "size": "500x265",
+            "max_size": "1200x637",
+            "quality": ""
+        },
+        {
+            "id": "732191-MLA29120219866_012019",
+            "url": "http://http2.mlstatic.com/D_732191-MLA29120219866_012019-O.jpg",
+            "secure_url": "https://http2.mlstatic.com/D_732191-MLA29120219866_012019-O.jpg",
+            "size": "465x500",
+            "max_size": "894x960",
+            "quality": ""
+        },
+        {
+            "id": "832192-MLA29120228315_012019",
+            "url": "http://http2.mlstatic.com/D_832192-MLA29120228315_012019-O.jpg",
+            "secure_url": "https://http2.mlstatic.com/D_832192-MLA29120228315_012019-O.jpg",
+            "size": "500x281",
+            "max_size": "1200x675",
+            "quality": ""
+        }
+    ],
+    "video_id": null,
+    "descriptions": [],
+    "accepts_mercadopago": true,
+    "non_mercado_pago_payment_methods": [],
+    "shipping": {
+        "mode": "me2",
+        "methods": [],
+        "tags": [
+            "mandatory_free_shipping"
+        ],
+        "dimensions": null,
+        "local_pick_up": false,
+        "free_shipping": true,
+        "logistic_type": "xd_drop_off",
+        "store_pick_up": false
+    },
+    "international_delivery_mode": "none",
+    "seller_address": {
+        "city": {
+            "name": "Isidro Casanova"
+        },
+        "state": {
+            "id": "AR-B",
+            "name": "Buenos Aires"
+        },
+        "country": {
+            "id": "AR",
+            "name": "Argentina"
+        },
+        "search_location": {
+            "neighborhood": {
+                "id": "TUxBQklTSTk5OTRa",
+                "name": "Isidro Casanova"
+            },
+            "city": {
+                "id": "TUxBQ0xBTWF0YW56",
+                "name": "La Matanza"
+            },
+            "state": {
+                "id": "TUxBUEdSQWVmNTVm",
+                "name": "Bs.As. G.B.A. Oeste"
+            }
+        },
+        "id": 181242778
+    },
+    "seller_contact": null,
+    "location": {},
+    "coverage_areas": [],
+    "attributes": [
+        {
+            "id": "AGE_GROUP",
+            "name": "Edad",
+            "value_id": "1065183",
+            "value_name": "Niños",
+            "value_struct": null,
+            "values": [
+                {
+                    "id": "1065183",
+                    "name": "Niños",
+                    "struct": null
+                }
+            ],
+            "attribute_group_id": "OTHERS",
+            "attribute_group_name": "Otros"
+        },
+        {
+            "id": "BRAND",
+            "name": "Marca",
+            "value_id": null,
+            "value_name": "cesara",
+            "value_struct": null,
+            "values": [
+                {
+                    "id": null,
+                    "name": "cesara",
+                    "struct": null
+                }
+            ],
+            "attribute_group_id": "OTHERS",
+            "attribute_group_name": "Otros"
+        },
+        {
+            "id": "GENDER",
+            "name": "Género",
+            "value_id": "339665",
+            "value_name": "Mujer",
+            "value_struct": null,
+            "values": [
+                {
+                    "id": "339665",
+                    "name": "Mujer",
+                    "struct": null
+                }
+            ],
+            "attribute_group_id": "OTHERS",
+            "attribute_group_name": "Otros"
+        },
+        {
+            "id": "ITEM_CONDITION",
+            "name": "Condición del ítem",
+            "value_id": "2230284",
+            "value_name": "Nuevo",
+            "value_struct": null,
+            "values": [
+                {
+                    "id": "2230284",
+                    "name": "Nuevo",
+                    "struct": null
+                }
+            ],
+            "attribute_group_id": "OTHERS",
+            "attribute_group_name": "Otros"
+        },
+        {
+            "id": "MATERIAL",
+            "name": "Material",
+            "value_id": "466793",
+            "value_name": "Algodón",
+            "value_struct": null,
+            "values": [
+                {
+                    "id": "466793",
+                    "name": "Algodón",
+                    "struct": null
+                }
+            ],
+            "attribute_group_id": "OTHERS",
+            "attribute_group_name": "Otros"
+        },
+        {
+            "id": "MODEL",
+            "name": "Modelo",
+            "value_id": null,
+            "value_name": "batas spa",
+            "value_struct": null,
+            "values": [
+                {
+                    "id": null,
+                    "name": "batas spa",
+                    "struct": null
+                }
+            ],
+            "attribute_group_id": "OTHERS",
+            "attribute_group_name": "Otros"
+        }
+    ],
+    "warnings": [],
+    "listing_source": "",
+    "variations": [
+        {
+            "id": 55243596914,
+            "price": 35000,
+            "attribute_combinations": [
+                {
+                    "id": "COLOR",
+                    "name": "Color",
+                    "value_id": "52055",
+                    "value_name": "Blanco",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "52055",
+                            "name": "Blanco",
+                            "struct": null
+                        }
+                    ]
+                },
+                {
+                    "id": "FABRIC_DESIGN",
+                    "name": "Diseño de la tela",
+                    "value_id": null,
+                    "value_name": "toalla",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "toalla",
+                            "struct": null
+                        }
+                    ]
+                },
+                {
+                    "id": "SIZE",
+                    "name": "Talle",
+                    "value_id": null,
+                    "value_name": "2 al 14",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "2 al 14",
+                            "struct": null
+                        }
+                    ]
+                }
+            ],
+            "available_quantity": 50,
+            "sold_quantity": 1,
+            "sale_terms": [],
+            "picture_ids": [
+                "148521-MLA20818083064_072016",
+                "877813-MLA29120156662_012019",
+                "649521-MLA20818080816_072016",
+                "750143-MLA27603564038_062018",
+                "886521-MLA20818087197_072016",
+                "972992-MLA29120256051_012019",
+                "732191-MLA29120219866_012019",
+                "832192-MLA29120228315_012019"
+            ],
+            "catalog_product_id": null
+        }
+    ],
+    "status": "active",
+    "sub_status": [],
+    "tags": [
+        "poor_quality_picture",
+        "poor_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible"
+    ],
+    "warranty": "Sin garantía",
+    "catalog_product_id": null,
+    "domain_id": "MLA-ROBES",
+    "parent_item_id": null,
+    "differential_pricing": null,
+    "deal_ids": [],
+    "automatic_relist": false,
+    "date_created": "2016-07-15T17:36:51.000Z",
+    "last_updated": "2022-06-08T19:20:53.000Z",
+    "health": 0.7,
+    "catalog_listing": false,
+    "channels": [
+        "marketplace"
+    ]
+}
