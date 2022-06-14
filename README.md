@@ -3,8 +3,11 @@
 Test práctico para aspirantes al área de middle-end de Mercado Libre. 
 
 # Diagrama de Secuencia
+ENDPOINT search/:site
+![image](https://user-images.githubusercontent.com/18534417/173658976-6f25d725-9888-4da7-a544-c058fa11d97f.png)
 
-![image](https://user-images.githubusercontent.com/18534417/173410956-e82a2fce-d9cc-4eac-b00c-4982c9b8691c.png)
+ENDPOINT item/:id
+![image](https://user-images.githubusercontent.com/18534417/173659085-68f71711-f324-4f3b-b6d4-aef599b913ae.png)
 
 # Iniciar API
 
