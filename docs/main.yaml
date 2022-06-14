@@ -24,12 +24,11 @@ paths:
           in: path
           description: site de busqueda (MLA, MLB, MLM)
           required: true
-          schema:
-            type: string
-            enum:
-              - MLA
-              - MLB
-              - MLM
+          type: string
+          enum:
+            - MLA
+            - MLB
+            - MLM
         - name: q
           in: query
           description: termino de busqueda
@@ -54,11 +53,10 @@ paths:
           in: query
           description: ordena por precio los resultados (ASC-DES)
           required: false
-          schema:
-            type: string
-            enum:
-              - ASC
-              - DESC
+          type: string
+          enum:
+            - ASC
+            - DESC
       responses:
         '200':
           description: OK
