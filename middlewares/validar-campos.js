@@ -1,11 +1,11 @@
 const { validationResult } = require('express-validator');
-const logger = require('../logger');
+const { logErrors } = require('../log/logger');
 
 
 const validarCampos = (req, res, next) => {
     const errors = validationResult(req);
     if (!errors.isEmpty()) {
-        logger.error(errors);
+        logErrors('CAMPOS INVALIDOS');
         return res.status(400).json(errors);
     };
     next();

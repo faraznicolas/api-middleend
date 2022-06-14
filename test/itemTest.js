@@ -9,7 +9,7 @@ chai.should();
 chai.use(chaiHttp);
 
 
-/*probando search */
+/*probando item */
 describe('get Item:', () => {
     it('Should response item 200 OK', (done) => {
         chai.request(app)
@@ -18,6 +18,7 @@ describe('get Item:', () => {
             .end((err, res) => {
                 //console.log(res.body);
                 expect(res).to.have.status(200);
+                expect(res.body).to.have.all.keys('author', 'item');
                 done();
             });
     });

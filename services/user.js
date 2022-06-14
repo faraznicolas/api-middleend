@@ -9,8 +9,12 @@ class UserService {
     }
 
     async getAuthor() {
-        const { data } = await this.api.get();
-        return { author: { name: data.nickname, lastname: '' } };
+        try {
+            const { data } = await this.api.get();
+            return { author: { name: data.nickname, lastname: '' } };
+        } catch (e) {   
+            throw new Error(e);
+        }
     }
 }
 

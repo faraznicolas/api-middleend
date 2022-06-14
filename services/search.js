@@ -1,6 +1,6 @@
 const axios = require('axios');
 const config = require('../config');
-const { buildSearchResponse } = require('../helpers/buildResponse');
+const { buildSearchResponse } = require('../helpers/build-response');
 
 class SearchService {
     constructor(site, query) {
@@ -17,7 +17,7 @@ class SearchService {
             data.results.sort((a, b) => this.order === 'ASC' ? b.price - a.price : a.price - b.price);
             return buildSearchResponse(data.paging, data.results);
         } catch (error) {
-            return error
+            throw new Error(error);
         }
 
     }

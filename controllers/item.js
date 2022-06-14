@@ -1,9 +1,8 @@
-const { logResponse } = require('../helpers/log-response');
-const logger = require('../logger');
+const { logResponse } = require('../log/logger');
 const ItemService = require('../services/item');
 const UserService = require('../services/user');
 
-const getItem = async (req, res) => {
+const getItem = async (req, res, next) => {
     const { mock = false } = req;
     if (mock) {
         return res.status(200).json(require('../mocks/item.json'))
@@ -20,13 +19,10 @@ const getItem = async (req, res) => {
         res.status(200).json({
             ...result
         });
-        logResponse(res.getHeaders(), result)
+        logResponse(res.getHeaders(), result);
         return res;
     } catch (error) {
-        logger.error(error);
-        return res.status(400).json({
-            msg: 'Bad request'
-        });
+        next(error)
     }
 };
 

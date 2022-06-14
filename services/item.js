@@ -1,6 +1,6 @@
 const axios = require('axios');
 const config = require('../config');
-const { buildItemResponse } = require('../helpers/buildResponse');
+const { buildItemResponse } = require('../helpers/build-response');
 
 class ItemService {
     constructor(id) {
@@ -20,7 +20,7 @@ class ItemService {
             return buildItemResponse(item.data, description.data)
 
         }).catch((e) => {
-            return e
+            throw new Error(e);
         });
     }
 }

@@ -18,6 +18,7 @@ describe('get search:', () => {
             .end((err, res) => {
                 //console.log(res.body);
                 expect(res).to.have.status(200);
+                expect(res.body).to.have.all.keys('paging', 'categories','items');
                 done();
             });
     });
@@ -67,6 +68,16 @@ describe('get search:', () => {
             .end((err, res) => {
                 // console.log(res.body);
                 expect(res).to.have.status(400);
+                done();
+            });
+    });
+    it('Should response search bad token', (done) => {
+        chai.request(app)
+            .get('/api/search/MLx?q=celular&limit=5&offset=5')
+            .set({ 'x-auth-token': 'xxxxxx' })
+            .end((err, res) => {
+                // console.log(res.body);
+                expect(res).to.have.status(401);
                 done();
             });
     });
